@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	</head>
+
+	<body>
+		<div class="container">
+			<br>
+	  <div class="alert alert-success">
+	    <strong>Success!</strong>  Analysis has been completed.
+	  </div>
+  <div class="panel-group">
+    
+
+    <div class="panel panel-primary">
+      <div class="panel-heading">Analysis Result</div>
+      <div class="panel-body" style="text-align: 	center;	">
+      				<br>
+	  <div class="alert alert-info">
+	    <strong>Success!</strong>  A zip file has been generated.
+	  </div>
+      	{% for obj in zip %}
+		<h2>
+		  <a href="{{ obj }}">
+		    <button type="button" class="btn btn-primary">Download the zip file</button>
+
+		  </a>
+		</h2>
+		{% endfor %}
+
+	<a href="/"><button type="button" class="btn btn-info">Back to start again</button></a>
+
+      </div>
+    </div>
+
+	
+	</body>
+</html>

@@ -1,0 +1,8 @@
+> cd <this directory>/.venv
+> activate.bat
+> cd ../myproject
+> python manage.py runserver
+
+
+---
+127.0.0.1:8000

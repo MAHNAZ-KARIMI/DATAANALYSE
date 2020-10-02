@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+
+      <div class="panel-body" style="text-align: 	center;	">
+
+{% for obj in message %}
+		<h2>
+
+            <div class="panel panel-primary">
+      <div class="panel-heading">{{obj}}</div>
+      <div class="panel-body my-auto" style="text-align:  center; ">
+        </div>
+                </div>
+		</h2>
+          {% endfor %}
+          <textarea id="w3review" name="w3review" rows="4" cols="50">
+ {id, forloebVarighed, virkStartForloebsId, cvr, cvrIndberet, RID, PID, serverTimeStamp, formURL, feltType, feltId, feltNavn, handling}
+  </textarea>
+  <br><br>
+
+
+	<a href="/"><button type="button" class="btn btn-info">Back to start again</button></a>
+
+      </div>
+</body>
+</html>

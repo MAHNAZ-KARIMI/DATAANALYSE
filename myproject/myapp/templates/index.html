@@ -1,0 +1,66 @@
+<html>
+<head>
+<title> Ervevsstyrelse </title>
+  <style>
+
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+  <br>
+  
+<div class="container">
+  <div class="alert alert-info">
+    <strong>Info!</strong> Select a csv file or upload new one!  <a href="/message" class="alert-link">read this message</a>.
+  </div>
+  <div class="panel-group">
+    <div class="panel panel-primary">
+      <div class="panel-heading">Start Analysis</div>
+      <div class="panel-body my-auto" style="text-align:  center; ">
+  <div class="row">
+  <form method="post" action="/start" enctype="multipart/form-data" >
+    <div class="form-group">
+    <div class="row">
+    <div class="col-md-12">  
+      <label for="" class="control-label col-sm-6">Csv input:</label>
+    </div>    
+      
+</div>
+      <div class="row">  
+      <div class="col-md-12 text-center">
+      <div class="col-md-6" > 
+        <select id="" name="csvselected" class="form-control">
+          {% for i in csvlist %}
+          <option value="{{i.name}}">{{ i.name}}</option>
+          {% endfor %}
+        </select>    
+      </div> 
+      <div class="col-md-6"> 
+      <input type="file" name="myfile" class="form-control-file">
+    </div>
+      </div>
+      </div>
+
+        <br>
+          <div class="row">
+              <input type="checkbox" id="mysql" name="mysql" value="mysql">
+                <label for="mysql">Load from MySql</label><br>
+          </div>
+
+    <div class="row">
+        <input type="hidden" value="" name="mothertask" >
+        {% csrf_token %}
+        
+      <div class="col-md-12">
+        <button type="submit" class="btn btn-primary " style=" margin-top:2%">Start </button>
+    </div>
+  </div>
+</div>
+  </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

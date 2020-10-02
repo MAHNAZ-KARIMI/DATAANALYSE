@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5904b8cf-a3a0-402b-8629-0f4d3c49663e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/EasyData/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Alle_Bruger/Felter_Tidsforbrug/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Alle_Bruger/URL_Tidsforbrug/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/Felter_Tidsforbrug/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Quatiler/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Alle_Bruger/Unique_Felt_Rejser_And_Count_Every_URL/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/URL_Feild_Count/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_URL_Rejser_Count/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/analysisfolder/tested_histogram/.gitignore.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/templates/message.html" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp/templates/message.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EasyDataAnalyse" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myproject/myapp/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="43" column="77" lean-forward="true" selection-start-line="43" selection-start-column="77" selection-end-line="43" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myproject/myproject/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="83" column="25" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myproject/myproject/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <folding>
+                <element signature="e#633#665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zip</find>
+      <find>CLEAR FILED DARAIM EMTEHEAN MIKOMI</find>
+      <find>listOfNumberOFFelt</find>
+      <find>FileData.objects.all().delete()</find>
+      <find>print</find>
+      <find>delete_this_dir</find>
+      <find>mainfolder</find>
+      <find>analysis</find>
+      <find>analysisfolder</find>
+      <find>os</find>
+      <find>BASE_DIR</find>
+      <find>findurl</find>
+      <find>make</find>
+      <find>Felt_Brugerresje_Count_Csv</find>
+      <find>quatiler</find>
+      <find>save</find>
+      <find>handling</find>
+      <find>tal</find>
+      <find>Data</find>
+      <find>delete_Handlig_Bluer_And_Reset_Index</find>
+      <find>href</find>
+      <find>info</find>
+      <find>body</find>
+      <find>csvName</find>
+      <find>myproject</find>
+      <find>myapp</find>
+      <find>name</find>
+      <find>link</find>
+      <find>mypro</find>
+      <find>csvname</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myproject/myapp/Main.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_PID_RID.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_Time.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_URL_Felt.py" />
+        <option value="$PROJECT_DIR$/myproject/myproject/settings.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/tools.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/M_URL_Felt.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/main.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/urls.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/templates/index.html" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/M_Time.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/analysisfolder/M_PID_RID.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/templates/message.html" />
+        <option value="$PROJECT_DIR$/myproject/myapp/views.py" />
+        <option value="$PROJECT_DIR$/myproject/myapp/tests.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="EasyData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Histogram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Histogram" type="462c0819:PsiDirectoryNode" />
+              <item name="Alle_Bruger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Histogram" type="462c0819:PsiDirectoryNode" />
+              <item name="Alle_Bruger" type="462c0819:PsiDirectoryNode" />
+              <item name="URL_Tidsforbrug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Histogram" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Histogram" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+              <item name="URL_Tidsforbrug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Quatiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+              <item name="Alle_Bruger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+              <item name="Unique_Felt_Rejser_Count" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+              <item name="Unique_URL_Rejser_Count" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="analysisfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Luk_Virksomhed" type="462c0819:PsiDirectoryNode" />
+              <item name="Sunburst" type="462c0819:PsiDirectoryNode" />
+              <item name="Gruppet_Bruger_PID_RID" type="462c0819:PsiDirectoryNode" />
+              <item name="URL_Feild_Count" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyDataAnalyse1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyDataAnalyse1" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="myproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruger\Desktop\EasyDataAnalyse\myproject\myapp\analysisfolder\mainfolder" />
+      <recent name="C:\Users\Bruger\Desktop\EasyDataAnalyse\myproject\myapp\analysisfolder\mainfolder\tested_histogram" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruger\Desktop\EasyDataAnalyse\myproject\myapp" />
+      <recent name="C:\Users\Bruger\Desktop\EasyDataAnalyse\myproject\myapp\analysisfolder\mainfolder" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EasyDataAnalyse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myproject/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myproject/myapp/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5904b8cf-a3a0-402b-8629-0f4d3c49663e" name="Default Changelist" comment="" />
+      <created>1600726910758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600726910758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.25922024" />
+      <window_info id="Structure" order="1" sideWeight="0.5010941" side_tool="true" weight="0.1886196" />
+      <window_info id="Favorites" order="2" sideWeight="0.50074077" side_tool="true" weight="0.1886196" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.46153846" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" weight="0.2881907" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.1886196" />
+      <window_info id="Structure" order="1" sideWeight="0.5010941" side_tool="true" weight="0.1886196" />
+      <window_info id="Favorites" order="2" sideWeight="0.50074077" side_tool="true" weight="0.1886196" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.46153846" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" weight="0.3066089" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Luk_Virksomhed_s2kVNmP.zip/Sunburst/Alle_Bruger/Unique_Felt_Rejser_And_Count_Every_URL/test.py" />
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/EasyData/EasyData.csv" />
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_PID_RID.py" />
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_Time.py" />
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/ConnectionToMysql.py" />
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/mainfolder/M_URL_Felt.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="118" column="23" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myproject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myproject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../EasyTimeAnalyse/Frontend/erhvervsstyresle/page1/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../EasyTimeAnalyse/Frontend/erhvervsstyresle/page1/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../EasyTimeAnalyse/Frontend/erhvervsstyresle/page1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Main.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1977">
+          <caret line="990" selection-start-line="990" selection-end-line="990" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#130#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/M_URL_Felt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/templates/message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/M_Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="305" column="154" selection-start-line="305" selection-start-column="147" selection-end-line="305" selection-end-column="154" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/M_PID_RID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2521">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/gennem_PID_enscvr_TimeUsedforUrl_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/gennem_PID_enscvr_TimeUsedforUrl_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/ikke_gennem_RID_PID_ikke_enscvr_TimeUsedforUrl_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/ikke_gennem_RID_PID_ikke_enscvr_TimeUsedforUrl_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/ikke_gennem_RID_PID_ikke_enscvr_TimeUsedforUrl_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Histogram/Gruppet_Bruger_PID_RID/URL_Tidsforbrug/ikke_gennem_RID_PID_ikke_enscvr_TimeUsedforUrl_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Quatiler/quatiler.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Quatiler/quatiler_PID_RID.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_PID_enscvr_FeltBrugerRejser_Under_URL0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_PID_enscvr_FeltBrugerRejser_Under_URL1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_PID_enscvr_FeltBrugerRejser_Under_URL2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_PID_ikke_enscvr_FeltBrugerRejser_Under_URL1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_RID__enscvr_FeltBrugerRejser_Under_URL0.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_RID__enscvr_FeltBrugerRejser_Under_URL2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/analysisfolder/Luk_Virksomhed/Sunburst/Gruppet_Bruger_PID_RID/Unique_Felt_Rejser_Count/gennem_PID_enscvr_FeltBrugerRejser_Under_URL3.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/myapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="43" column="77" lean-forward="true" selection-start-line="43" selection-start-column="77" selection-end-line="43" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
