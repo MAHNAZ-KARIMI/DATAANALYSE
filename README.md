@@ -76,12 +76,6 @@ Csv files under path: myproject\myapp\analysisfolder\mainfolder\EasyData
 
 ```
 
-### Manually create the database using phpMyAdmin
-
-
-![ani (1)](https://user-images.githubusercontent.com/62967908/93829884-fed20400-fc6e-11ea-90ec-a233b84d9f0f.gif)
-
-
 ### Django app
 
 #### The first page
