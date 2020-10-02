@@ -76,14 +76,3 @@ Csv files under path: myproject\myapp\analysisfolder\mainfolder\EasyData
 
 ```
 
-### Django app
-
-#### The first page
-
-![image](https://user-images.githubusercontent.com/62967908/93047714-5ebc1f80-f65d-11ea-836d-468704919ac3.png)
-
-
--------------------------------------------------------------------------------------------------------------
-#### The second page
-
-![image](https://user-images.githubusercontent.com/62967908/93048136-721bba80-f65e-11ea-9057-ed1bab09c57b.png)
