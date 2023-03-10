@@ -1,0 +1,1001 @@
+id;forloebVarighed;virkStartForloebsId;cvr;cvrIndberet;RID;PID;serverTimeStamp;formURL;feltType;feltId;feltNavn;handling
+0;0;0;0;0;0;0;2018-01-01T00:37:04.923;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+0;0;0;0;0;0;0;2018-01-01T00:37:30.644;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1dfaf6a1-a709-4c03-acbf-e02469854658;;;;
+0;0;0;0;0;0;0;2018-01-01T00:37:38.753;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1dfaf6a1-a709-4c03-acbf-e02469854658;;;cvrnummer;blur
+0;0;0;0;0;0;0;2018-01-01T00:38:00.913;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1dfaf6a1-a709-4c03-acbf-e02469854658;;;cvrnummer;focus
+1;0;1;0;0;1;0;2018-01-01T13:53:59.989;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+1;0;1;0;0;1;0;2018-01-01T13:54:09.736;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=27788b42-aaba-416c-95ae-8f3c531655df;;;;
+1;0;1;0;0;1;0;2018-01-01T13:54:16.986;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=27788b42-aaba-416c-95ae-8f3c531655df;;;cvrnummer;blur
+1;0;1;0;0;1;0;2018-01-01T13:54:17.033;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=27788b42-aaba-416c-95ae-8f3c531655df;;;_action_soeg;focus
+2;0;2;0;0;1;0;2018-01-01T12:09:39.342;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+2;0;2;0;0;1;0;2018-01-01T12:09:48.331;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=63c2630b-3c57-4f9e-811c-c274039de779;;;;
+3;0;3;0;0;1;0;2018-01-01T13:10:05.213;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+3;0;3;0;0;1;0;2018-01-01T13:10:06.008;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=370624dd-4848-4e12-8277-7d29a073e278;;;;
+3;0;3;0;0;1;0;2018-01-01T13:10:10.135;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=370624dd-4848-4e12-8277-7d29a073e278;;;cvrnummer;blur
+3;0;3;0;0;1;0;2018-01-01T13:10:10.142;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=370624dd-4848-4e12-8277-7d29a073e278;;;_action_soeg;focus
+4;0;0;0;1;0;0;2018-01-01T09:21:15.723;https://erst.virk.dk/aendringer/X17-BM-21-YN/overblik/index;;;;
+4;0;0;0;1;0;0;2018-01-01T09:21:35.603;https://erst.virk.dk/aendringer/X17-BM-21-YN/opsummering/index;;;;
+4;0;0;0;1;0;0;2018-01-01T09:22:15.220;https://erst.virk.dk/aendringer/X17-BM-21-YN/opsummering/index;;;Begrundelse for godkendelse *;focus
+4;0;0;0;1;0;0;2018-01-01T09:22:26.417;https://erst.virk.dk/aendringer/X17-BM-21-YN/opsummering/index;;;Begrundelse for godkendelse *;blur
+4;0;0;0;1;0;0;2018-01-01T09:22:26.423;https://erst.virk.dk/aendringer/X17-BM-21-YN/opsummering/index;;;_action_sagsbehandlerGodkend;focus
+4;0;0;0;1;0;0;2018-01-01T09:22:31.612;https://erst.virk.dk/aendringer/X17-BM-21-YN/opsummering/index;;;_action_sagsbehandlerGodkend;blur
+5;0;5;0;0;0;0;2018-01-01T09:35:23.383;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+5;0;5;0;0;0;0;2018-01-01T09:35:23.855;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;;
+5;0;5;0;0;0;0;2018-01-01T09:35:28.597;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;blur
+5;0;5;0;0;0;0;2018-01-01T09:45:38.701;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;focus
+5;0;5;0;0;0;0;2018-01-01T09:45:39.564;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;blur
+5;0;5;0;0;0;0;2018-01-01T09:47:18.297;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;focus
+5;0;5;0;0;0;0;2018-01-01T09:47:20.986;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;blur
+5;0;5;0;0;0;0;2018-01-01T09:47:23.259;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;focus
+5;0;5;0;0;0;0;2018-01-01T09:47:46.472;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;blur
+5;0;5;0;0;0;0;2018-01-01T09:48:35.522;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;focus
+5;0;5;0;0;0;0;2018-01-01T09:49:11.802;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;cvrnummer;blur
+5;0;5;0;0;0;0;2018-01-01T09:49:11.899;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7a3dcc0-d777-4947-bee4-24cf8db6bd86;;;_action_soeg;focus
+6;0;6;0;0;1;0;2018-01-01T10:23:41.170;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+6;0;6;0;0;1;0;2018-01-01T10:24:26.150;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6f544a17-2d00-4a7a-8a6a-06afb5dd5e9f;;;;
+7;0;7;0;0;1;0;2018-01-01T10:26:52.470;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+7;0;7;0;0;1;0;2018-01-01T10:26:52.948;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b9c0b3ca-b7c6-439f-b017-f3070ea1a341;;;;
+7;0;7;0;0;1;0;2018-01-01T10:27:11.785;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b9c0b3ca-b7c6-439f-b017-f3070ea1a341;;;_action_soeg;focus
+7;0;7;0;0;1;0;2018-01-01T10:27:11.835;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b9c0b3ca-b7c6-439f-b017-f3070ea1a341;;;cvrnummer;blur
+8;0;8;0;0;1;0;2018-01-01T10:24:05.048;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+8;0;8;0;0;1;0;2018-01-01T10:25:03.588;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=376eb19e-44a7-477c-bf76-823adeed8e63;;;;
+8;0;8;0;0;1;0;2018-01-01T10:25:15.627;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=376eb19e-44a7-477c-bf76-823adeed8e63;;;cvrnummer;blur
+8;0;8;0;0;1;0;2018-01-01T10:26:18.039;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=376eb19e-44a7-477c-bf76-823adeed8e63;;;;
+9;0;9;0;0;0;0;2018-01-01T11:30:39.572;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+9;0;9;0;0;0;0;2018-01-01T11:30:55.796;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a40b078-5951-4481-afa3-68cfead57429;;;;
+9;0;9;0;0;0;0;2018-01-01T11:31:02.187;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a40b078-5951-4481-afa3-68cfead57429;;;cvrnummer;blur
+9;0;9;0;0;0;0;2018-01-01T11:31:07.563;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a40b078-5951-4481-afa3-68cfead57429;;;cvrnummer;focus
+9;0;9;0;0;0;0;2018-01-01T11:31:08.844;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a40b078-5951-4481-afa3-68cfead57429;;;cvrnummer;blur
+10;0;10;0;0;1;0;2018-01-01T11:31:12.137;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+10;0;10;0;0;1;0;2018-01-01T11:32:05.680;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=11269504-6cbe-4f26-bca1-7a8d8c066fa5;;;;
+11;0;11;0;0;1;0;2018-01-01T11:36:53.665;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+11;0;11;0;0;1;0;2018-01-01T11:37:10.552;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=56a6b570-601f-47e5-b2fa-b03413c100e6;;;;
+12;0;12;0;0;0;0;2018-01-01T11:35:12.330;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+12;0;12;0;0;0;0;2018-01-01T11:35:14.380;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=21a68fd7-13d3-484f-be90-b816b4abdc5d;;;;
+12;0;12;0;0;0;0;2018-01-01T11:35:36.628;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=21a68fd7-13d3-484f-be90-b816b4abdc5d;;;cvrnummer;blur
+12;0;12;0;0;1;0;2018-01-01T11:37:13.456;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=56a6b570-601f-47e5-b2fa-b03413c100e6;;;cvrnummer;blur
+13;0;13;0;0;0;0;2018-01-01T13:33:11.433;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+13;0;13;0;0;0;0;2018-01-01T13:33:33.369;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=87aeb504-ba22-4db5-8983-dfe47051a796;;;;
+13;0;13;0;0;0;0;2018-01-01T13:33:39.977;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=87aeb504-ba22-4db5-8983-dfe47051a796;;;cvrnummer;blur
+14;0;14;0;0;0;1;2018-01-01T12:33:16.771;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+14;0;14;0;0;0;1;2018-01-01T12:33:26.620;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=0ed6127e-1e40-4eb2-ab65-5d5a719deb52;;;;
+14;0;14;0;0;0;1;2018-01-01T12:33:38.552;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=0ed6127e-1e40-4eb2-ab65-5d5a719deb52;;;_action_soeg;focus
+14;0;14;0;0;0;1;2018-01-01T12:33:38.553;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=0ed6127e-1e40-4eb2-ab65-5d5a719deb52;;;cvrnummer;blur
+15;0;15;0;0;1;0;2018-01-01T12:37:30.717;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+15;0;15;0;0;1;0;2018-01-01T12:37:39.361;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=914b0df1-c0de-4854-b72b-dbacde826c16;;;;
+15;0;15;0;0;1;0;2018-01-01T12:37:48.121;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=914b0df1-c0de-4854-b72b-dbacde826c16;;;cvrnummer;blur
+15;0;15;0;0;1;0;2018-01-01T12:38:27.418;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=914b0df1-c0de-4854-b72b-dbacde826c16;;;cvrnummer;focus
+15;0;15;0;0;1;0;2018-01-01T12:38:31.485;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=914b0df1-c0de-4854-b72b-dbacde826c16;;;cvrnummer;blur
+15;0;15;0;0;1;0;2018-01-01T12:38:31.500;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=914b0df1-c0de-4854-b72b-dbacde826c16;;;_action_soeg;focus
+16;0;16;0;0;1;0;2018-01-01T12:08:04.607;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+16;0;16;0;0;1;0;2018-01-01T12:08:05.155;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=afd01308-9cc2-4ea4-a72a-0213c6fc8661;;;;
+17;0;17;0;0;1;0;2018-01-01T11:52:22.355;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+17;0;17;0;0;1;0;2018-01-01T11:53:29.147;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=d7a400f1-cca7-4fcd-a14d-62a9dd9e8721;;;;
+17;0;17;0;0;1;0;2018-01-01T11:53:49.951;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=d7a400f1-cca7-4fcd-a14d-62a9dd9e8721;;;cvrnummer;blur
+17;0;17;0;0;1;0;2018-01-01T11:53:50.022;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=d7a400f1-cca7-4fcd-a14d-62a9dd9e8721;;;_action_soeg;focus
+17;0;17;0;0;1;0;2018-01-01T12:08:22.609;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=afd01308-9cc2-4ea4-a72a-0213c6fc8661;;;cvrnummer;blur
+18;0;18;0;0;1;0;2018-01-01T12:10:10.422;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+18;0;18;0;0;1;0;2018-01-01T12:10:11.027;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=04b5b53a-e85c-4780-a24f-694fcb517cbd;;;;
+19;0;19;0;0;1;0;2018-01-01T13:56:01.100;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+19;0;19;0;0;1;0;2018-01-01T13:56:45.512;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a9dbb0cf-e095-4db4-86a3-7608722111e7;;;;
+19;0;19;0;0;1;0;2018-01-01T13:57:14.244;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a9dbb0cf-e095-4db4-86a3-7608722111e7;;;cvrnummer;blur
+19;0;19;0;0;1;0;2018-01-01T13:57:14.245;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a9dbb0cf-e095-4db4-86a3-7608722111e7;;;_action_soeg;focus
+19;0;19;0;0;1;0;2018-01-01T14:00:54.402;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a9dbb0cf-e095-4db4-86a3-7608722111e7;;;;
+20;0;20;0;0;1;0;2018-01-01T09:11:53.142;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+20;0;20;0;0;1;0;2018-01-01T09:13:03.174;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4077b701-d7e1-42f4-9c9c-07cbd8e7fb8b;;;;
+20;0;20;0;0;1;0;2018-01-01T09:14:07.681;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4077b701-d7e1-42f4-9c9c-07cbd8e7fb8b;;;;
+21;0;21;0;0;1;0;2018-01-01T09:39:50.178;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+21;0;21;0;0;1;0;2018-01-01T09:40:35.928;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=80336349-33f5-46fc-9128-0288e3c09ec5;;;;
+22;0;22;0;0;0;0;2018-01-01T09:46:53.259;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+22;0;22;0;0;0;0;2018-01-01T09:46:53.820;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b14afe5f-9031-46a5-ac49-12f249517523;;;;
+22;0;22;0;0;0;0;2018-01-01T09:46:58.470;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b14afe5f-9031-46a5-ac49-12f249517523;;;cvrnummer;blur
+23;0;23;0;0;0;1;2018-01-01T10:07:30.875;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+23;0;23;0;0;0;1;2018-01-01T10:07:56.119;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=27ea9095-0398-401c-8df6-5eb16105d370;;;;
+23;0;23;0;0;0;1;2018-01-01T10:08:33.243;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=27ea9095-0398-401c-8df6-5eb16105d370;;;cvrnummer;blur
+24;0;24;0;0;1;0;2018-01-01T10:25:04.416;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+24;0;24;0;0;1;0;2018-01-01T10:25:07.062;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f97e847f-4646-4840-a436-a86f33223d0c;;;;
+24;0;24;0;0;1;0;2018-01-01T10:25:13.842;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f97e847f-4646-4840-a436-a86f33223d0c;;;cvrnummer;blur
+24;0;24;0;0;1;0;2018-01-01T10:25:25.668;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f97e847f-4646-4840-a436-a86f33223d0c;;;cvrnummer;focus
+25;0;25;0;0;0;1;2018-01-01T10:27:29.538;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+25;0;25;0;0;0;1;2018-01-01T10:27:36.499;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=26894521-e36b-42f0-8909-8c53f3a2ed7e;;;;
+25;0;25;0;0;0;1;2018-01-01T10:27:41.859;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=26894521-e36b-42f0-8909-8c53f3a2ed7e;;;cvrnummer;blur
+25;0;25;0;0;0;1;2018-01-01T10:27:56.189;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=26894521-e36b-42f0-8909-8c53f3a2ed7e;;;cvrnummer;focus
+25;0;25;0;0;0;1;2018-01-01T10:27:58.173;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=26894521-e36b-42f0-8909-8c53f3a2ed7e;;;cvrnummer;blur
+25;0;25;0;0;0;1;2018-01-01T10:27:58.174;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=26894521-e36b-42f0-8909-8c53f3a2ed7e;;;_action_soeg;focus
+26;0;26;0;0;0;1;2018-01-01T13:13:37.180;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+26;0;26;0;0;0;1;2018-01-01T13:13:42.013;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=161ae9b0-4d4e-4816-966d-4af199c4f870;;;;
+26;0;26;0;0;0;1;2018-01-01T13:13:43.795;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=161ae9b0-4d4e-4816-966d-4af199c4f870;;;cvrnummer;blur
+26;0;26;0;1;0;1;2018-01-01T13:14:04.949;https://erst.virk.dk/aendringer/38428586/overblik/index;;;;
+26;0;26;0;1;0;1;2018-01-01T13:17:01.835;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;;
+26;0;26;0;1;0;1;2018-01-01T13:17:40.037;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+26;0;26;0;1;0;1;2018-01-01T13:17:44.106;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+26;0;26;0;1;0;1;2018-01-01T13:17:44.211;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+26;0;26;0;1;0;1;2018-01-01T13:17:46.462;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+26;0;26;0;1;0;1;2018-01-01T13:17:56.053;https://erst.virk.dk/aendringer/38428586/dokumenter/index;;;;
+26;0;26;0;1;0;1;2018-01-01T13:18:09.007;https://erst.virk.dk/aendringer/X18-AA-01-FG/overblik/index;;;;
+26;0;26;0;1;0;1;2018-01-01T13:19:47.781;https://erst.virk.dk/aendringer/X18-AA-01-FG/overblik/tilOpsummering;;;;
+27;0;27;0;0;0;0;2018-01-01T12:36:15.170;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+27;0;27;0;0;0;0;2018-01-01T12:36:22.565;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c7333c1c-7951-4ed0-b5ee-e87fd59cbe46;;;;
+27;0;27;0;0;0;0;2018-01-01T12:36:46.333;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c7333c1c-7951-4ed0-b5ee-e87fd59cbe46;;;cvrnummer;blur
+27;0;27;0;0;0;0;2018-01-01T12:36:46.350;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c7333c1c-7951-4ed0-b5ee-e87fd59cbe46;;;_action_soeg;focus
+28;0;28;0;0;0;1;2018-01-01T13:40:50.156;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+28;0;28;0;0;0;1;2018-01-01T13:41:03.728;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;;
+28;0;28;0;0;0;1;2018-01-01T13:41:07.638;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;cvrnummer;blur
+28;0;28;0;0;0;1;2018-01-01T13:41:15.050;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;cvrnummer;focus
+28;0;28;0;0;0;1;2018-01-01T13:41:21.546;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;cvrnummer;blur
+28;0;28;0;0;0;1;2018-01-01T13:41:24.475;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;cvrnummer;focus
+28;0;28;0;0;0;1;2018-01-01T13:41:29.348;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;cvrnummer;blur
+28;0;28;0;0;0;1;2018-01-01T13:41:29.350;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8b5c2fcc-e72f-4e89-8597-323a776f7d3d;;;_action_soeg;focus
+29;0;29;0;0;1;0;2018-01-01T11:32:26.218;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+29;0;29;0;0;1;0;2018-01-01T11:33:02.685;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e5583a51-bdbf-4fbe-9b46-ac8a4c54c655;;;;
+29;0;29;0;0;1;0;2018-01-01T11:33:22.125;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e5583a51-bdbf-4fbe-9b46-ac8a4c54c655;;;cvrnummer;blur
+29;0;29;0;0;1;0;2018-01-01T11:33:22.134;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e5583a51-bdbf-4fbe-9b46-ac8a4c54c655;;;_action_soeg;focus
+29;0;29;0;2;1;0;2018-01-01T11:34:27.177;https://erst.virk.dk/aendringer/38136054/overblik/index;;;;
+30;0;30;0;0;0;0;2018-01-01T11:00:00.007;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+30;0;30;0;0;0;0;2018-01-01T11:00:00.620;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=4a8b38ff-e9c3-4319-868b-a32ea4829dd4;;;;
+31;0;31;0;0;0;0;2018-01-01T10:57:51.763;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+31;0;31;0;0;0;0;2018-01-01T10:58:05.571;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f57b94e1-da5d-4044-a548-98b15ca4f122;;;;
+31;0;31;0;0;0;0;2018-01-01T11:06:57.773;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=3dfdd37e-611f-4f29-9681-f3e6ec644070;;;cvrnummer;blur
+31;0;31;0;0;0;0;2018-01-01T11:07:02.839;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=3dfdd37e-611f-4f29-9681-f3e6ec644070;;;cvrnummer;focus
+31;0;31;0;0;0;0;2018-01-01T11:07:02.855;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=3dfdd37e-611f-4f29-9681-f3e6ec644070;;;cvrnummer;focus
+32;0;32;0;0;0;0;2018-01-01T11:06:51.776;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+32;0;32;0;0;0;0;2018-01-01T11:06:52.394;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=3dfdd37e-611f-4f29-9681-f3e6ec644070;;;;
+33;0;33;0;0;0;1;2018-01-01T10:38:53.656;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+33;0;33;0;0;0;1;2018-01-01T10:39:04.698;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=39218d39-53d0-4fb1-a51d-fa5e6009e81a;;;;
+33;0;33;0;0;0;1;2018-01-01T10:39:13.744;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=39218d39-53d0-4fb1-a51d-fa5e6009e81a;;;cvrnummer;blur
+34;0;34;0;0;1;0;2018-01-01T12:57:34.207;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+34;0;34;0;0;1;0;2018-01-01T12:57:51.099;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65f33789-85ce-4f33-9f69-5028bcc92902;;;;
+34;0;34;0;0;1;0;2018-01-01T12:57:59.142;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65f33789-85ce-4f33-9f69-5028bcc92902;;;cvrnummer;blur
+34;0;34;0;0;1;0;2018-01-01T13:06:37.523;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65f33789-85ce-4f33-9f69-5028bcc92902;;;;
+35;0;35;0;0;1;0;2018-01-01T10:55:09.020;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+35;0;35;0;0;1;0;2018-01-01T10:55:35.709;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=bd44dbf4-6957-4d58-b43c-d55292d4a0db;;;;
+35;0;35;0;0;1;0;2018-01-01T10:55:47.964;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=bd44dbf4-6957-4d58-b43c-d55292d4a0db;;;cvrnummer;blur
+36;0;36;0;0;1;0;2018-01-01T10:32:52.842;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+36;0;36;0;0;1;0;2018-01-01T10:32:53.315;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b694bb85-fa24-430d-9cc8-bc9a6c39c8f8;;;;
+36;0;36;0;0;1;0;2018-01-01T10:32:57.735;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b694bb85-fa24-430d-9cc8-bc9a6c39c8f8;;;cvrnummer;blur
+37;0;37;0;0;1;0;2018-01-01T11:18:33.721;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+37;0;37;0;0;1;0;2018-01-01T11:18:36.322;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b3f55f16-0ab5-4c7d-8686-9ded0bc83687;;;;
+37;0;37;0;0;1;0;2018-01-01T11:18:44.457;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b3f55f16-0ab5-4c7d-8686-9ded0bc83687;;;cvrnummer;blur
+37;0;37;0;0;1;0;2018-01-01T11:18:44.469;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=b3f55f16-0ab5-4c7d-8686-9ded0bc83687;;;_action_soeg;focus
+38;0;38;0;0;0;0;2018-01-01T09:14:39.846;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+38;0;38;0;0;0;0;2018-01-01T09:15:06.659;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f7f14435-5086-4349-ae3e-e081bff463d6;;;;
+38;0;38;0;0;0;0;2018-01-01T09:15:37.959;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f7f14435-5086-4349-ae3e-e081bff463d6;;;cvrnummer;blur
+38;0;38;0;0;0;0;2018-01-01T09:15:37.961;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f7f14435-5086-4349-ae3e-e081bff463d6;;;_action_soeg;focus
+39;0;39;0;0;1;0;2018-01-01T09:23:00.251;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+39;0;39;0;0;1;0;2018-01-01T09:23:13.422;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=519aa94a-c8ef-414e-86fe-1a44a7a0c901;;;;
+40;0;0;0;0;0;0;2018-01-01T00:53:47.811;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=54df30c7-18c7-4b4b-bfe8-a500a8283436;;;cvrnummer;blur
+40;0;0;0;0;0;0;2018-01-01T00:53:49.932;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=54df30c7-18c7-4b4b-bfe8-a500a8283436;;;cvrnummer;focus
+41;0;40;0;0;0;0;2018-01-01T00:53:43.168;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+41;0;40;0;0;0;0;2018-01-01T00:53:47.811;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=54df30c7-18c7-4b4b-bfe8-a500a8283436;;;;
+42;0;41;0;0;0;1;2018-01-01T00:01:09.916;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+42;0;41;0;0;0;1;2018-01-01T00:01:10.472;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7c5d0a9-bafe-433b-8222-7fd38a1bb6cf;;;;
+42;0;41;0;0;0;1;2018-01-01T00:01:15.227;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7c5d0a9-bafe-433b-8222-7fd38a1bb6cf;;;cvrnummer;blur
+42;0;41;0;0;0;1;2018-01-01T00:01:26.921;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=e7c5d0a9-bafe-433b-8222-7fd38a1bb6cf;;;cvrnummer;focus
+43;0;42;0;0;1;0;2018-01-01T08:07:04.432;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+43;0;42;0;0;1;0;2018-01-01T08:07:52.000;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f2818f3e-ffbf-4c8d-80ca-16e76871584d;;;;
+43;0;42;0;0;1;0;2018-01-01T08:07:57.195;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f2818f3e-ffbf-4c8d-80ca-16e76871584d;;;cvrnummer;blur
+44;0;43;0;0;1;0;2018-01-01T13:56:40.919;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+44;0;43;0;0;1;0;2018-01-01T13:57:18.197;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=236bb657-c9f8-4ac6-994d-ac0f839efd82;;;;
+44;0;43;0;0;1;0;2018-01-01T13:57:34.319;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=236bb657-c9f8-4ac6-994d-ac0f839efd82;;;cvrnummer;blur
+44;0;43;0;0;1;0;2018-01-01T13:57:34.326;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=236bb657-c9f8-4ac6-994d-ac0f839efd82;;;_action_soeg;focus
+44;0;43;0;0;1;0;2018-01-01T13:57:35.005;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=236bb657-c9f8-4ac6-994d-ac0f839efd82;;;_action_soeg;blur
+45;0;44;0;0;0;0;2018-01-10T16:34:48.522;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+45;0;44;0;0;0;0;2018-01-10T16:34:49.621;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=1688f21e-aa53-4935-a840-9170a9d807aa;;;;
+45;0;44;0;0;0;0;2018-01-10T16:34:50.652;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=1688f21e-aa53-4935-a840-9170a9d807aa;;;cvrnummer;blur
+45;0;44;0;0;0;0;2018-01-10T16:34:50.656;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=1688f21e-aa53-4935-a840-9170a9d807aa;;;_action_soeg;focus
+46;0;45;0;0;0;0;2018-01-10T16:32:10.792;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+46;0;45;0;0;0;0;2018-01-10T16:33:45.820;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90209677-cac5-435c-9845-3bef4c60d780;;;;
+46;0;45;0;0;0;0;2018-01-10T16:34:18.141;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90209677-cac5-435c-9845-3bef4c60d780;;;cvrnummer;blur
+46;0;45;0;0;0;0;2018-01-10T16:34:18.146;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90209677-cac5-435c-9845-3bef4c60d780;;;_action_soeg;focus
+47;0;46;0;0;0;0;2018-01-10T16:34:23.075;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+47;0;46;0;0;0;0;2018-01-10T16:34:23.785;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6d486768-b5f5-4889-81f8-a23b47190e56;;;;
+47;0;46;0;0;0;0;2018-01-10T16:34:25.214;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6d486768-b5f5-4889-81f8-a23b47190e56;;;cvrnummer;blur
+47;0;46;0;0;0;0;2018-01-10T16:34:25.217;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6d486768-b5f5-4889-81f8-a23b47190e56;;;_action_soeg;focus
+48;0;47;0;0;1;0;2018-01-10T17:12:34.125;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+48;0;47;0;0;1;0;2018-01-10T17:13:23.497;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f3ff45df-44de-49ed-a8bc-dc0cfe313e85;;;;
+49;0;48;0;0;0;0;2018-01-10T15:41:22.262;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+49;0;48;0;0;0;0;2018-01-10T15:41:31.394;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f3cd0221-e4e6-469e-be57-38b022fabe8d;;;;
+50;0;49;0;0;0;0;2018-01-02T14:28:33.615;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+50;0;49;0;0;0;0;2018-01-02T14:28:34.421;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=fac5436f-3a0d-47c7-bf0e-145b7972d617;;;;
+50;0;49;0;0;0;0;2018-01-02T14:28:40.731;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=fac5436f-3a0d-47c7-bf0e-145b7972d617;;;cvrnummer;blur
+51;0;50;0;0;1;0;2018-01-02T12:46:32.920;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+51;0;50;0;0;1;0;2018-01-02T12:47:10.825;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8d5cdcb7-8521-4e2e-803a-df8717edf9fb;;;;
+51;0;50;0;0;1;0;2018-01-02T12:47:37.005;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8d5cdcb7-8521-4e2e-803a-df8717edf9fb;;;cvrnummer;focus
+51;0;50;0;0;1;0;2018-01-02T12:47:37.077;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8d5cdcb7-8521-4e2e-803a-df8717edf9fb;;;cvrnummer;focus
+52;0;0;0;2;0;0;2018-01-02T12:40:21.238;https://erst.virk.dk/aendringer/38109774/overblik/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:41:17.167;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:41:19.856;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];focus
+52;0;0;0;2;0;0;2018-01-02T12:41:20.143;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];blur
+52;0;0;0;2;0;0;2018-01-02T12:41:27.954;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];focus
+52;0;0;0;2;0;0;2018-01-02T12:41:28.039;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];blur
+52;0;0;0;2;0;0;2018-01-02T12:42:04.753;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Betalingserklæring;focus
+52;0;0;0;2;0;0;2018-01-02T12:42:08.991;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Betalingserklæring;blur
+52;0;0;0;2;0;0;2018-01-02T12:43:15.037;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Andet;focus
+52;0;0;0;2;0;0;2018-01-02T12:43:16.399;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;focus
+52;0;0;0;2;0;0;2018-01-02T12:43:16.400;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Andet;blur
+52;0;0;0;2;0;0;2018-01-02T12:43:35.492;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;blur
+52;0;0;0;2;0;0;2018-01-02T12:43:35.497;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;focus
+52;0;0;0;2;0;0;2018-01-02T12:43:35.910;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;blur
+52;0;0;0;2;0;0;2018-01-02T12:43:36.497;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:43:43.057;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];focus
+52;0;0;0;2;0;0;2018-01-02T12:43:43.247;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];blur
+52;0;0;0;2;0;0;2018-01-02T12:44:02.011;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Erklæring fra SKAT;focus
+52;0;0;0;2;0;0;2018-01-02T12:44:05.618;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Erklæring fra SKAT;blur
+52;0;0;0;2;0;0;2018-01-02T12:44:46.333;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Erklæring fra SKAT;focus
+52;0;0;0;2;0;0;2018-01-02T12:44:49.337;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Erklæring fra SKAT;blur
+52;0;0;0;2;0;0;2018-01-02T12:44:58.831;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;focus
+52;0;0;0;2;0;0;2018-01-02T12:44:59.073;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;blur
+52;0;0;0;2;0;0;2018-01-02T12:44:59.865;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:45:03.937;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];focus
+52;0;0;0;2;0;0;2018-01-02T12:45:04.135;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];blur
+52;0;0;0;2;0;0;2018-01-02T12:45:07.587;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];focus
+52;0;0;0;2;0;0;2018-01-02T12:45:07.600;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;files[];blur
+52;0;0;0;2;0;0;2018-01-02T12:45:10.292;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Betalingserklæring;focus
+52;0;0;0;2;0;0;2018-01-02T12:45:11.880;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;Betalingserklæring;blur
+52;0;0;0;2;0;0;2018-01-02T12:45:24.474;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+52;0;0;0;2;0;0;2018-01-02T12:45:26.785;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+52;0;0;0;2;0;0;2018-01-02T12:45:26.787;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;focus
+52;0;0;0;2;0;0;2018-01-02T12:45:27.079;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;blur
+52;0;0;0;2;0;0;2018-01-02T12:45:27.906;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:45:33.638;https://erst.virk.dk/aendringer/38109774/dokumenter/index;;;_action_gem;focus
+52;0;0;0;2;0;0;2018-01-02T12:45:42.050;https://erst.virk.dk/aendringer/X18-AA-09-FC/overblik/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:48:06.920;https://erst.virk.dk/aendringer/X18-AA-09-FC/overblik/tilOpsummering;;;;
+52;0;0;0;2;0;0;2018-01-02T12:48:21.206;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:48:30.109;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+52;0;0;0;2;0;0;2018-01-02T12:48:39.909;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+52;0;0;0;2;0;0;2018-01-02T12:48:44.254;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;;focus
+52;0;0;0;2;0;0;2018-01-02T12:48:44.511;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;;blur
+52;0;0;0;2;0;0;2018-01-02T12:48:45.290;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;;
+52;0;0;0;2;0;0;2018-01-02T12:48:48.485;https://erst.virk.dk/aendringer/X18-AA-09-FC/dokumenter/index;;;_action_gem;focus
+52;0;0;0;2;0;0;2018-01-02T12:48:53.857;https://erst.virk.dk/aendringer/X18-AA-09-FC/overblik/index;;;;
+53;0;51;0;0;1;0;2018-01-02T14:54:24.866;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+53;0;51;0;0;1;0;2018-01-02T14:55:05.502;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=3b394a6f-1fb7-4f3b-a1d9-b4b5f4f40c93;;;;
+53;0;51;0;0;1;0;2018-01-02T14:55:12.363;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=3b394a6f-1fb7-4f3b-a1d9-b4b5f4f40c93;;;cvrnummer;blur
+54;0;52;0;0;1;0;2018-01-02T14:10:03.146;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+54;0;52;0;0;1;0;2018-01-02T14:10:03.846;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6214c75b-cf9e-46cd-896e-eb8b21f984e6;;;;
+55;0;0;0;2;0;0;2018-01-11T11:53:41.845;https://erst.virk.dk/aendringer/X16-BK-51-UB/overblik/index;;;;
+55;0;0;0;2;0;0;2018-01-11T12:16:26.373;https://erst.virk.dk/aendringer/X16-BK-51-UB/overblik/index;;;;
+56;0;53;0;0;0;0;2018-01-11T12:23:41.186;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+56;0;53;0;0;0;0;2018-01-11T12:23:49.971;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f9149291-3f74-408d-850d-637452667720;;;;
+56;0;53;0;0;0;0;2018-01-11T12:23:52.821;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f9149291-3f74-408d-850d-637452667720;;;cvrnummer;blur
+56;0;53;0;0;0;0;2018-01-11T12:23:57.968;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f9149291-3f74-408d-850d-637452667720;;;cvrnummer;focus
+56;0;53;0;0;0;0;2018-01-11T12:24:01.366;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f9149291-3f74-408d-850d-637452667720;;;cvrnummer;blur
+56;0;53;0;0;0;0;2018-01-11T12:24:01.624;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f9149291-3f74-408d-850d-637452667720;;;_action_soeg;focus
+57;0;54;0;0;0;0;2018-01-11T12:20:26.852;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+57;0;54;0;0;0;0;2018-01-11T12:20:32.364;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=de057cd6-1ed3-4a7a-beed-e415ccafc7ca;;;;
+57;0;54;0;0;0;0;2018-01-11T12:20:41.772;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=de057cd6-1ed3-4a7a-beed-e415ccafc7ca;;;_action_soeg;focus
+57;0;54;0;0;0;0;2018-01-11T12:20:41.773;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=de057cd6-1ed3-4a7a-beed-e415ccafc7ca;;;cvrnummer;blur
+57;0;54;0;0;0;0;2018-01-11T12:24:05.662;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a6fe4b1-59e5-409c-992e-52879db8e092;;;cvrnummer;blur
+57;0;54;0;0;0;0;2018-01-11T12:24:05.669;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5a6fe4b1-59e5-409c-992e-52879db8e092;;;_action_soeg;focus
+58;0;55;0;0;0;0;2018-01-11T12:27:34.154;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+58;0;55;0;0;0;0;2018-01-11T12:27:42.709;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf14adde-0421-42fd-a057-2138a7445cdf;;;;
+58;0;55;0;0;0;0;2018-01-11T12:27:50.713;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf14adde-0421-42fd-a057-2138a7445cdf;;;cvrnummer;blur
+58;0;55;0;0;0;0;2018-01-11T12:27:50.716;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf14adde-0421-42fd-a057-2138a7445cdf;;;_action_soeg;focus
+58;0;55;0;2;0;0;2018-01-11T12:28:39.349;https://erst.virk.dk/aendringer/37310549/overblik/index;;;;
+59;0;56;0;0;0;1;2018-01-11T12:13:55.079;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+59;0;56;0;0;0;1;2018-01-11T12:14:03.005;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;;
+59;0;56;0;0;0;1;2018-01-11T12:14:07.893;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:14:12.668;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:14:20.256;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:14:22.535;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:14:23.560;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:14:26.607;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:14:28.079;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:14:33.962;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:14:39.788;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:14:55.301;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:15:00.496;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:15:02.113;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+59;0;56;0;0;0;1;2018-01-11T12:15:04.567;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;blur
+59;0;56;0;0;0;1;2018-01-11T12:15:06.834;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1b1fb2d8-d231-4437-82a3-28ce04bc049a;;;cvrnummer;focus
+60;0;57;0;0;0;1;2018-01-11T12:16:44.664;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+60;0;57;0;0;0;1;2018-01-11T12:16:52.167;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=be101a24-e8d4-4b5f-b648-e5ecf577141c;;;;
+60;0;57;0;0;0;1;2018-01-11T12:17:34.838;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=be101a24-e8d4-4b5f-b648-e5ecf577141c;;;cvrnummer;blur
+61;0;58;0;0;0;1;2018-01-11T12:29:41.437;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+61;0;58;0;0;0;1;2018-01-11T12:29:55.183;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf59b600-bc91-48be-9b34-8ac861753ff5;;;;
+62;1;59;0;0;0;0;2018-01-11T13:08:54.965;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+62;1;59;0;0;0;0;2018-01-11T13:09:01.190;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8ac54227-499d-4fbc-875d-9309cc1e745e;;;;
+62;1;59;0;0;0;0;2018-01-11T13:09:13.339;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8ac54227-499d-4fbc-875d-9309cc1e745e;;;_action_soeg;focus
+62;1;59;0;0;0;0;2018-01-11T13:09:13.340;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8ac54227-499d-4fbc-875d-9309cc1e745e;;;cvrnummer;blur
+62;1;59;0;0;0;0;2018-01-11T13:09:14.027;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=8ac54227-499d-4fbc-875d-9309cc1e745e;;;_action_soeg;blur
+62;1;59;0;1;0;0;2018-01-11T13:09:59.768;https://erst.virk.dk/aendringer/38673459/overblik/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:10:17.971;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:10:19.980;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;files[];focus
+62;1;59;0;1;0;0;2018-01-11T13:10:46.053;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Betalingserklæring;focus
+62;1;59;0;1;0;0;2018-01-11T13:10:54.590;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Betalingserklæring;blur
+62;1;59;0;1;0;0;2018-01-11T13:11:11.110;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+62;1;59;0;1;0;0;2018-01-11T13:12:33.948;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+62;1;59;0;1;0;0;2018-01-11T13:14:06.375;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:07.917;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:07.917;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+62;1;59;0;1;0;0;2018-01-11T13:14:08.595;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:14:11.075;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;files[];focus
+62;1;59;0;1;0;0;2018-01-11T13:14:22.009;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Betalingserklæring;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:24.643;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Betalingserklæring;blur
+62;1;59;0;1;0;0;2018-01-11T13:14:37.110;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:39.467;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+62;1;59;0;1;0;0;2018-01-11T13:14:39.487;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:40.240;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:14:43.785;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;files[];focus
+62;1;59;0;1;0;0;2018-01-11T13:14:52.851;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Erklæring fra SKAT;focus
+62;1;59;0;1;0;0;2018-01-11T13:14:54.827;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;Erklæring fra SKAT;blur
+62;1;59;0;1;0;0;2018-01-11T13:15:03.164;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;focus
+62;1;59;0;1;0;0;2018-01-11T13:15:03.919;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:15:22.835;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;_action_gem;focus
+62;1;59;0;1;0;0;2018-01-11T13:15:28.821;https://erst.virk.dk/aendringer/38673459/dokumenter/index;;;_action_gem;blur
+62;1;59;0;1;0;0;2018-01-11T13:15:29.187;https://erst.virk.dk/aendringer/X18-AA-84-JP/overblik/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:16:07.808;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;;
+62;1;59;0;1;0;0;2018-01-11T13:16:34.654;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;_action_Godkend;focus
+62;1;59;0;1;0;0;2018-01-11T13:16:34.686;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;_action_Godkend;blur
+62;1;59;0;1;0;0;2018-01-11T13:16:36.985;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+62;1;59;0;1;0;0;2018-01-11T13:16:38.979;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+62;1;59;0;1;0;0;2018-01-11T13:16:38.990;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;_action_godkend;focus
+62;1;59;0;1;0;0;2018-01-11T13:16:43.159;https://erst.virk.dk/aendringer/X18-AA-84-JP/opsummering/index;;;_action_godkend;blur
+62;1;59;0;1;0;0;2018-01-11T13:16:43.513;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=K.E.+Ellehuus+II+ApS&CVRNummer=38673459&sagsnumre=X18-AA-84-JP&procestype=P003_OPHOER&modtagersEmail=michael.pedersen%40dk.gt.com&diaId=30184;;;;
+63;0;60;0;0;0;1;2018-01-11T12:44:47.590;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+63;0;60;0;0;0;1;2018-01-11T12:45:23.449;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=20c4e5a9-c995-43a8-ae78-74f21dc264af;;;;
+63;0;60;0;0;0;1;2018-01-11T12:45:31.949;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=20c4e5a9-c995-43a8-ae78-74f21dc264af;;;cvrnummer;blur
+63;0;60;0;0;0;1;2018-01-11T12:45:34.668;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=20c4e5a9-c995-43a8-ae78-74f21dc264af;;;_action_soeg;blur
+64;0;61;0;0;0;1;2018-01-05T06:58:28.761;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+64;0;61;0;0;0;1;2018-01-05T06:59:03.378;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65ea7ece-4961-442f-a624-4b18f3d46ee2;;;;
+64;0;61;0;0;0;1;2018-01-05T06:59:08.781;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65ea7ece-4961-442f-a624-4b18f3d46ee2;;;cvrnummer;blur
+64;0;61;0;0;0;1;2018-01-05T06:59:14.110;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65ea7ece-4961-442f-a624-4b18f3d46ee2;;;cvrnummer;focus
+64;0;61;0;0;0;1;2018-01-05T06:59:19.483;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=65ea7ece-4961-442f-a624-4b18f3d46ee2;;;cvrnummer;blur
+65;0;62;0;0;0;1;2018-01-05T08:01:24.362;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+65;0;62;0;0;0;1;2018-01-05T08:01:33.211;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=30fc3c4f-f3f6-4cda-8cf6-8f17043a327b;;;;
+65;0;62;0;0;0;1;2018-01-05T08:02:55.788;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=30fc3c4f-f3f6-4cda-8cf6-8f17043a327b;;;cvrnummer;blur
+65;0;62;0;0;0;1;2018-01-05T08:02:55.790;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=30fc3c4f-f3f6-4cda-8cf6-8f17043a327b;;;_action_soeg;focus
+65;0;62;0;0;0;1;2018-01-05T08:06:56.290;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf5a745c-f3ff-494c-8485-185bf5b80113;;;_action_soeg;focus
+65;0;62;0;0;0;1;2018-01-05T08:06:56.290;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=cf5a745c-f3ff-494c-8485-185bf5b80113;;;cvrnummer;blur
+66;0;63;0;0;0;0;2018-01-05T08:11:38.759;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+66;0;63;0;0;0;0;2018-01-05T08:20:57.726;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4facb94-69e7-4ee3-a64c-b44665dd8013;;;;
+67;2;64;0;0;0;0;2018-01-05T08:24:41.439;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+67;2;64;0;0;0;0;2018-01-05T08:26:02.075;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c0d6cca0-af43-4280-88cf-16c7d8d2bb0a;;;;
+67;2;64;0;0;0;0;2018-01-05T08:26:48.948;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c0d6cca0-af43-4280-88cf-16c7d8d2bb0a;;;cvrnummer;blur
+67;2;64;0;0;0;0;2018-01-05T08:26:48.952;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c0d6cca0-af43-4280-88cf-16c7d8d2bb0a;;;_action_soeg;focus
+67;2;64;0;1;0;0;2018-01-05T08:29:02.807;https://erst.virk.dk/aendringer/30539737/overblik/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:29:37.166;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:29:38.369;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];focus
+67;2;64;0;1;0;0;2018-01-05T08:29:38.469;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];blur
+67;2;64;0;1;0;0;2018-01-05T08:29:56.620;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];focus
+67;2;64;0;1;0;0;2018-01-05T08:29:56.640;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];blur
+67;2;64;0;1;0;0;2018-01-05T08:30:00.497;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Referat ekstraordinær generalforsamling;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:03.670;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Referat ekstraordinær generalforsamling;blur
+67;2;64;0;1;0;0;2018-01-05T08:30:07.171;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:07.305;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;blur
+67;2;64;0;1;0;0;2018-01-05T08:30:07.585;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:30:09.923;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];focus
+67;2;64;0;1;0;0;2018-01-05T08:30:10.022;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];blur
+67;2;64;0;1;0;0;2018-01-05T08:30:12.675;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];focus
+67;2;64;0;1;0;0;2018-01-05T08:30:12.734;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;files[];blur
+67;2;64;0;1;0;0;2018-01-05T08:30:16.366;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Afsluttende likvidationsregnskab;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:22.316;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Afsluttende likvidationsregnskab;blur
+67;2;64;0;1;0;0;2018-01-05T08:30:24.904;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Afsluttende likvidationsregnskab;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:26.520;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;Afsluttende likvidationsregnskab;blur
+67;2;64;0;1;0;0;2018-01-05T08:30:29.931;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:30.064;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;blur
+67;2;64;0;1;0;0;2018-01-05T08:30:30.379;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:30:37.707;https://erst.virk.dk/aendringer/30539737/dokumenter/index;;;_action_gem;focus
+67;2;64;0;1;0;0;2018-01-05T08:30:41.184;https://erst.virk.dk/aendringer/X18-AA-36-JG/overblik/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:35:05.293;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;;
+67;2;64;0;1;0;0;2018-01-05T08:35:32.595;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;_action_Godkend;focus
+67;2;64;0;1;0;0;2018-01-05T08:35:32.679;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;_action_Godkend;blur
+67;2;64;0;1;0;0;2018-01-05T08:35:34.237;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+67;2;64;0;1;0;0;2018-01-05T08:35:34.977;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;_action_godkend;focus
+67;2;64;0;1;0;0;2018-01-05T08:35:34.980;https://erst.virk.dk/aendringer/X18-AA-36-JG/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+67;2;64;0;1;0;0;2018-01-05T08:35:37.954;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=Madklubben+Admiralgade+ApS&CVRNummer=30539737&sagsnumre=X18-AA-36-JG&procestype=P007_STATUSSKIFT&modtagersEmail=josephine.uhrbrand%40dlapiper.com&diaId=30184;;;;
+68;0;65;0;0;0;0;2018-01-05T10:20:15.447;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+68;0;65;0;0;0;0;2018-01-05T10:20:15.885;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=3b413e3d-c853-4409-be72-c91175f6ce3b;;;;
+69;0;66;0;0;0;0;2018-01-05T17:31:42.153;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+69;0;66;0;0;0;0;2018-01-05T17:31:43.516;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=541818ac-32aa-49aa-b79e-a82f527b224d;;;;
+69;0;66;0;0;0;0;2018-01-05T17:31:54.177;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=541818ac-32aa-49aa-b79e-a82f527b224d;;;cvrnummer;blur
+69;0;66;0;0;0;0;2018-01-05T17:31:54.179;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=541818ac-32aa-49aa-b79e-a82f527b224d;;;_action_soeg;focus
+70;0;67;0;0;0;0;2018-01-05T17:08:12.065;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+70;0;67;0;0;0;0;2018-01-05T17:08:18.457;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=dcc23b36-da76-47e1-bd8e-862f5df9525e;;;;
+70;0;67;0;0;0;0;2018-01-05T17:08:31.786;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=dcc23b36-da76-47e1-bd8e-862f5df9525e;;;cvrnummer;blur
+70;0;67;0;0;0;0;2018-01-05T17:08:31.794;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=dcc23b36-da76-47e1-bd8e-862f5df9525e;;;_action_soeg;focus
+70;0;67;0;1;0;0;2018-01-05T17:09:29.720;https://erst.virk.dk/aendringer/31369096/overblik/index;;;;
+70;0;67;0;1;0;0;2018-01-05T17:10:18.441;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;;
+70;0;67;0;1;0;0;2018-01-05T17:10:23.808;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;files[];focus
+70;0;67;0;1;0;0;2018-01-05T17:10:23.985;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;files[];blur
+70;0;67;0;1;0;0;2018-01-05T17:10:40.029;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;files[];focus
+70;0;67;0;1;0;0;2018-01-05T17:10:47.418;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;Referat ordinær generalforsamling;focus
+70;0;67;0;1;0;0;2018-01-05T17:10:57.862;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;Referat ordinær generalforsamling;blur
+70;0;67;0;1;0;0;2018-01-05T17:11:04.794;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;;focus
+70;0;67;0;1;0;0;2018-01-05T17:11:05.583;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;;
+70;0;67;0;1;0;0;2018-01-05T17:11:50.227;https://erst.virk.dk/aendringer/31369096/dokumenter/index;;;_action_gem;focus
+70;0;67;0;1;0;0;2018-01-05T17:11:53.842;https://erst.virk.dk/aendringer/X18-AA-41-ZA/overblik/index;;;;
+70;0;67;0;1;0;0;2018-01-05T17:41:22.680;https://erst.virk.dk/aendringer/31369096/overblik/tilOpsummering;;;;
+71;0;68;0;0;1;0;2018-01-05T16:19:08.968;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+71;0;68;0;0;1;0;2018-01-05T16:20:33.706;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a0681dfa-7def-40f0-a288-768730d4f24e;;;;
+72;0;69;0;0;0;1;2018-01-07T18:00:23.689;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+72;0;69;0;0;0;1;2018-01-07T18:00:46.347;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=f4c6d3b3-3e4f-45b1-ba73-959870ca1fb7;;;;
+73;0;70;0;0;1;0;2018-01-15T09:51:53.000;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+73;0;70;0;0;1;0;2018-01-15T09:52:55.508;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=535bf734-ee94-4728-9edf-a77437f9f575;;;;
+73;0;70;0;0;1;0;2018-01-15T09:53:02.311;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=535bf734-ee94-4728-9edf-a77437f9f575;;;cvrnummer;blur
+74;0;71;0;0;0;0;2018-01-15T08:49:39.417;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+74;0;71;0;0;0;0;2018-01-15T08:49:44.944;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;;
+74;0;71;0;0;0;0;2018-01-15T08:49:47.443;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;cvrnummer;blur
+74;0;71;0;0;0;0;2018-01-15T08:49:50.692;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;cvrnummer;focus
+74;0;71;0;0;0;0;2018-01-15T08:49:53.356;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;cvrnummer;blur
+74;0;71;0;0;0;0;2018-01-15T08:49:55.563;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;cvrnummer;focus
+74;0;71;0;0;0;0;2018-01-15T08:49:57.326;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;cvrnummer;blur
+74;0;71;0;0;0;0;2018-01-15T08:49:57.351;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;_action_soeg;focus
+74;0;71;0;0;0;0;2018-01-15T08:49:57.959;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57627cdd-0a63-48de-b754-f9d1c09acb87;;;_action_soeg;blur
+75;0;72;0;0;0;0;2018-01-15T15:50:06.250;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+75;0;72;0;0;0;0;2018-01-15T15:50:07.134;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f2f554a5-9eb2-4167-b8ed-cef53a6de29c;;;;
+75;0;72;0;0;0;0;2018-01-15T15:50:13.248;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f2f554a5-9eb2-4167-b8ed-cef53a6de29c;;;cvrnummer;blur
+75;0;72;0;0;0;0;2018-01-15T15:50:13.252;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=f2f554a5-9eb2-4167-b8ed-cef53a6de29c;;;_action_soeg;focus
+76;0;73;0;0;1;0;2018-01-15T12:50:41.847;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+76;0;73;0;0;1;0;2018-01-15T12:50:42.417;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6973da59-5f1d-4ce3-925d-a303bbea2ced;;;;
+76;0;73;0;0;1;0;2018-01-15T12:50:49.541;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6973da59-5f1d-4ce3-925d-a303bbea2ced;;;cvrnummer;blur
+76;0;73;0;0;1;0;2018-01-15T12:50:49.544;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=6973da59-5f1d-4ce3-925d-a303bbea2ced;;;_action_soeg;focus
+77;0;74;0;0;0;0;2018-01-15T12:25:21.315;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+77;0;74;0;0;0;0;2018-01-15T12:25:33.592;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57261240-c9d4-4d37-8203-992345f0e7bd;;;;
+77;0;74;0;0;0;0;2018-01-15T12:25:47.145;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57261240-c9d4-4d37-8203-992345f0e7bd;;;_action_soeg;focus
+77;0;74;0;0;0;0;2018-01-15T12:25:47.146;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=57261240-c9d4-4d37-8203-992345f0e7bd;;;cvrnummer;blur
+78;0;75;0;0;0;0;2018-01-15T15:48:31.434;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+78;0;75;0;0;0;0;2018-01-15T15:48:52.641;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=631340ee-2515-48d4-b336-c329642157b8;;;;
+78;0;75;0;0;0;0;2018-01-15T15:49:02.012;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=631340ee-2515-48d4-b336-c329642157b8;;;cvrnummer;blur
+78;0;75;0;0;0;0;2018-01-15T15:49:02.016;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=631340ee-2515-48d4-b336-c329642157b8;;;_action_soeg;focus
+79;0;76;0;0;0;0;2018-01-15T14:44:44.699;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+79;0;76;0;0;0;0;2018-01-15T14:44:45.035;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=df5ca9f0-da4b-4f66-ab44-8ce358533f36;;;;
+79;0;76;0;0;0;0;2018-01-15T14:44:52.895;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=df5ca9f0-da4b-4f66-ab44-8ce358533f36;;;cvrnummer;blur
+79;0;76;0;0;0;0;2018-01-15T14:44:52.903;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=df5ca9f0-da4b-4f66-ab44-8ce358533f36;;;_action_soeg;focus
+79;0;76;0;0;0;0;2018-01-15T14:46:53.976;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=2506e022-0973-4738-9c29-aee5b7d5e236;;;_action_soeg;focus
+79;0;76;0;0;0;0;2018-01-15T14:46:53.977;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=2506e022-0973-4738-9c29-aee5b7d5e236;;;cvrnummer;blur
+80;3;77;0;0;0;0;2018-01-15T14:48:09.044;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+80;3;77;0;0;0;0;2018-01-15T14:48:15.934;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2c453839-f960-4220-9f72-8d9df864653d;;;;
+80;3;77;0;0;0;0;2018-01-15T14:48:23.641;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2c453839-f960-4220-9f72-8d9df864653d;;;cvrnummer;blur
+80;3;77;0;0;0;0;2018-01-15T14:48:23.642;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2c453839-f960-4220-9f72-8d9df864653d;;;_action_soeg;focus
+80;3;77;0;1;0;0;2018-01-15T14:48:39.545;https://erst.virk.dk/aendringer/35053166/overblik/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:51:27.041;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:51:30.123;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];focus
+80;3;77;0;1;0;0;2018-01-15T14:51:30.562;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];blur
+80;3;77;0;1;0;0;2018-01-15T14:51:40.473;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];focus
+80;3;77;0;1;0;0;2018-01-15T14:51:44.136;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Erklæring fra SKAT;focus
+80;3;77;0;1;0;0;2018-01-15T14:51:45.590;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+80;3;77;0;1;0;0;2018-01-15T14:51:45.591;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Erklæring fra SKAT;blur
+80;3;77;0;1;0;0;2018-01-15T14:51:47.544;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+80;3;77;0;1;0;0;2018-01-15T14:51:50.283;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;;focus
+80;3;77;0;1;0;0;2018-01-15T14:51:51.130;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:51:52.862;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];focus
+80;3;77;0;1;0;0;2018-01-15T14:51:53.254;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];blur
+80;3;77;0;1;0;0;2018-01-15T14:52:54.188;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;files[];focus
+80;3;77;0;1;0;0;2018-01-15T14:52:59.047;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Betalingserklæring;focus
+80;3;77;0;1;0;0;2018-01-15T14:52:59.881;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+80;3;77;0;1;0;0;2018-01-15T14:52:59.882;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Betalingserklæring;blur
+80;3;77;0;1;0;0;2018-01-15T14:53:00.766;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+80;3;77;0;1;0;0;2018-01-15T14:53:06.039;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+80;3;77;0;1;0;0;2018-01-15T14:53:10.985;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;;focus
+80;3;77;0;1;0;0;2018-01-15T14:53:10.992;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+80;3;77;0;1;0;0;2018-01-15T14:53:12.021;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:53:12.816;https://erst.virk.dk/aendringer/35053166/dokumenter/index;;;_action_gem;focus
+80;3;77;0;1;0;0;2018-01-15T14:53:20.635;https://erst.virk.dk/aendringer/X18-AB-07-EJ/overblik/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:54:37.524;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;;
+80;3;77;0;1;0;0;2018-01-15T14:54:54.290;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;_action_Godkend;focus
+80;3;77;0;1;0;0;2018-01-15T14:54:54.460;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;_action_Godkend;blur
+80;3;77;0;1;0;0;2018-01-15T14:54:56.664;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+80;3;77;0;1;0;0;2018-01-15T14:54:59.248;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+80;3;77;0;1;0;0;2018-01-15T14:54:59.250;https://erst.virk.dk/aendringer/X18-AB-07-EJ/opsummering/index;;;_action_godkend;focus
+80;3;77;0;1;0;0;2018-01-15T14:55:05.437;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=%C3%98LKANALEN+ApS&CVRNummer=35053166&sagsnumre=X18-AB-07-EJ&procestype=P003_OPHOER&modtagersEmail=po%40revipoint.dk&diaId=30184;;;;
+81;0;78;0;0;0;1;2018-01-14T09:06:47.443;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+81;0;78;0;0;0;1;2018-01-14T09:07:26.003;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ede7d8fd-5067-47a5-8177-a4f3fe380447;;;;
+82;0;79;0;0;0;0;2018-01-15T12:48:48.222;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+82;0;79;0;0;0;0;2018-01-15T12:48:54.073;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ea0538ad-0f6e-4c8a-82f3-04c59649bd29;;;;
+82;0;79;0;0;0;0;2018-01-15T12:49:05.940;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ea0538ad-0f6e-4c8a-82f3-04c59649bd29;;;cvrnummer;blur
+83;4;0;0;1;0;0;2018-01-15T12:58:42.720;https://erst.virk.dk/aendringer/25815084/overblik/index;;;;
+83;4;0;0;1;0;0;2018-01-15T12:59:05.634;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;
+83;4;0;0;1;0;0;2018-01-15T12:59:07.128;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;files[];focus
+83;4;0;0;1;0;0;2018-01-15T12:59:23.265;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Erklæring fra SKAT;focus
+83;4;0;0;1;0;0;2018-01-15T12:59:30.448;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Erklæring fra SKAT;blur
+83;4;0;0;1;0;0;2018-01-15T12:59:30.474;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+83;4;0;0;1;0;0;2018-01-15T12:59:34.192;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+83;4;0;0;1;0;0;2018-01-15T12:59:35.797;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;focus
+83;4;0;0;1;0;0;2018-01-15T12:59:36.353;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;
+83;4;0;0;1;0;0;2018-01-15T12:59:39.736;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;files[];focus
+83;4;0;0;1;0;0;2018-01-15T12:59:45.730;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;focus
+83;4;0;0;1;0;0;2018-01-15T12:59:55.130;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;blur
+83;4;0;0;1;0;0;2018-01-15T13:00:07.177;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;focus
+83;4;0;0;1;0;0;2018-01-15T13:00:08.357;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;blur
+83;4;0;0;1;0;0;2018-01-15T13:00:08.375;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+83;4;0;0;1;0;0;2018-01-15T13:00:13.590;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+83;4;0;0;1;0;0;2018-01-15T13:00:17.594;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+83;4;0;0;1;0;0;2018-01-15T13:00:42.717;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+83;4;0;0;1;0;0;2018-01-15T13:02:11.804;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+83;4;0;0;1;0;0;2018-01-15T13:02:15.425;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+83;4;0;0;1;0;0;2018-01-15T13:24:43.942;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+83;4;0;0;1;0;0;2018-01-15T13:24:48.967;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+83;4;0;0;1;0;0;2018-01-15T13:24:49.537;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;
+83;4;0;0;1;0;0;2018-01-15T13:24:51.587;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;files[];focus
+83;4;0;0;1;0;0;2018-01-15T13:24:55.943;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;focus
+83;4;0;0;1;0;0;2018-01-15T13:24:57.097;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Betalingserklæring;blur
+83;4;0;0;1;0;0;2018-01-15T13:24:57.113;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+83;4;0;0;1;0;0;2018-01-15T13:24:59.182;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:02.625;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:05.412;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:05.413;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:05.963;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;;
+83;4;0;0;1;0;0;2018-01-15T13:25:10.304;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;_action_gem;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:16.388;https://erst.virk.dk/aendringer/25815084/dokumenter/index;;;_action_gem;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:16.595;https://erst.virk.dk/aendringer/X18-AB-06-BP/overblik/index;;;;
+83;4;0;0;1;0;0;2018-01-15T13:25:30.084;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;;
+83;4;0;0;1;0;0;2018-01-15T13:25:41.770;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;_action_Godkend;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:41.827;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;_action_Godkend;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:43.082;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:44.096;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:44.106;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;_action_godkend;focus
+83;4;0;0;1;0;0;2018-01-15T13:25:47.005;https://erst.virk.dk/aendringer/X18-AB-06-BP/opsummering/index;;;_action_godkend;blur
+83;4;0;0;1;0;0;2018-01-15T13:25:47.202;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=CAKK+HOLDING+ApS&CVRNummer=25815084&sagsnumre=X18-AB-06-BP&procestype=P003_OPHOER&modtagersEmail=cj%40jws-revision.dk&diaId=30184;;;;
+84;0;80;0;0;0;0;2018-01-15T13:27:07.134;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+84;0;80;0;0;0;0;2018-01-15T13:27:57.213;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a6d4641-f4c8-456d-8a36-0041b36691bb;;;;
+84;0;80;0;0;0;0;2018-01-15T13:28:10.513;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a6d4641-f4c8-456d-8a36-0041b36691bb;;;cvrnummer;blur
+84;0;80;0;0;0;0;2018-01-15T13:28:10.514;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a6d4641-f4c8-456d-8a36-0041b36691bb;;;_action_soeg;focus
+85;0;81;0;0;1;0;2018-01-15T12:25:59.087;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+85;0;81;0;0;1;0;2018-01-15T12:26:29.863;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=af76a86a-001c-4130-9c63-0373b4511179;;;;
+85;0;81;0;0;1;0;2018-01-15T12:26:31.757;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=af76a86a-001c-4130-9c63-0373b4511179;;;cvrnummer;focus
+85;0;81;0;0;1;0;2018-01-15T12:26:33.278;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=af76a86a-001c-4130-9c63-0373b4511179;;;cvrnummer;blur
+85;0;81;0;0;1;0;2018-01-15T12:26:33.370;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=af76a86a-001c-4130-9c63-0373b4511179;;;_action_soeg;focus
+86;0;82;0;0;1;0;2018-01-15T12:26:26.266;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+86;0;82;0;0;1;0;2018-01-15T12:27:09.619;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=980f4b41-52c1-46a8-9a26-12a5ca86158f;;;;
+87;0;83;0;0;0;0;2018-01-15T12:32:03.900;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+87;0;83;0;0;0;0;2018-01-15T12:32:10.673;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ec5f513c-88e0-418f-8854-e3d298bbfbc4;;;;
+87;0;83;0;0;0;0;2018-01-15T12:32:22.590;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ec5f513c-88e0-418f-8854-e3d298bbfbc4;;;cvrnummer;blur
+87;0;83;0;0;0;0;2018-01-15T12:32:22.595;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ec5f513c-88e0-418f-8854-e3d298bbfbc4;;;_action_soeg;focus
+88;0;84;0;0;0;0;2018-01-15T12:33:19.449;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+88;0;84;0;0;0;0;2018-01-15T12:33:33.344;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6c1d5001-c51d-4353-a139-6584d2f7b28f;;;;
+88;0;84;0;0;0;0;2018-01-15T12:33:39.415;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6c1d5001-c51d-4353-a139-6584d2f7b28f;;;_action_soeg;focus
+88;0;84;0;0;0;0;2018-01-15T12:33:39.420;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6c1d5001-c51d-4353-a139-6584d2f7b28f;;;cvrnummer;blur
+88;0;84;0;0;0;0;2018-01-15T12:33:40.080;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6c1d5001-c51d-4353-a139-6584d2f7b28f;;;_action_soeg;blur
+89;5;85;0;0;0;0;2018-01-15T12:58:48.569;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+89;5;85;0;0;0;0;2018-01-15T12:59:00.379;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b56019b4-1fb5-48d3-af49-329874e5da90;;;;
+89;5;85;0;0;0;0;2018-01-15T12:59:25.774;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b56019b4-1fb5-48d3-af49-329874e5da90;;;cvrnummer;blur
+89;5;85;0;0;0;0;2018-01-15T12:59:25.774;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b56019b4-1fb5-48d3-af49-329874e5da90;;;_action_soeg;focus
+89;5;85;0;1;0;0;2018-01-15T13:00:10.832;https://erst.virk.dk/aendringer/36427876/overblik/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:00:30.452;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:00:32.905;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:00:33.223;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];blur
+89;5;85;0;1;0;0;2018-01-15T13:00:38.148;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:00:43.341;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+89;5;85;0;1;0;0;2018-01-15T13:00:47.188;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+89;5;85;0;1;0;0;2018-01-15T13:00:49.690;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;focus
+89;5;85;0;1;0;0;2018-01-15T13:00:55.673;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Erklæring fra SKAT;focus
+89;5;85;0;1;0;0;2018-01-15T13:01:01.660;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Erklæring fra SKAT;blur
+89;5;85;0;1;0;0;2018-01-15T13:01:01.663;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;focus
+89;5;85;0;1;0;0;2018-01-15T13:01:02.402;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:01:05.261;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:01:05.425;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];blur
+89;5;85;0;1;0;0;2018-01-15T13:01:10.066;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:01:25.319;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+89;5;85;0;1;0;0;2018-01-15T13:01:27.279;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+89;5;85;0;1;0;0;2018-01-15T13:01:28.063;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;focus
+89;5;85;0;1;0;0;2018-01-15T13:01:44.565;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:01:52.743;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:01:52.911;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];blur
+89;5;85;0;1;0;0;2018-01-15T13:01:57.714;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:02:01.389;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Betalingserklæring;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:03.191;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:03.342;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Betalingserklæring;blur
+89;5;85;0;1;0;0;2018-01-15T13:02:12.362;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+89;5;85;0;1;0;0;2018-01-15T13:02:19.938;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:21.600;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+89;5;85;0;1;0;0;2018-01-15T13:02:21.602;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:22.681;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:02:25.833;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:02:26.066;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];blur
+89;5;85;0;1;0;0;2018-01-15T13:02:28.993;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;files[];focus
+89;5;85;0;1;0;0;2018-01-15T13:02:31.792;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Erklæring fra SKAT;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:32.905;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:32.973;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Erklæring fra SKAT;blur
+89;5;85;0;1;0;0;2018-01-15T13:02:34.620;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+89;5;85;0;1;0;0;2018-01-15T13:02:35.948;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:36.817;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:02:40.957;https://erst.virk.dk/aendringer/36427876/dokumenter/index;;;_action_gem;focus
+89;5;85;0;1;0;0;2018-01-15T13:02:49.474;https://erst.virk.dk/aendringer/X18-AB-05-UR/overblik/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:03:27.673;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;;
+89;5;85;0;1;0;0;2018-01-15T13:03:49.678;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;_action_Godkend;focus
+89;5;85;0;1;0;0;2018-01-15T13:03:49.738;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;_action_Godkend;blur
+89;5;85;0;1;0;0;2018-01-15T13:03:52.222;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+89;5;85;0;1;0;0;2018-01-15T13:03:54.266;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+89;5;85;0;1;0;0;2018-01-15T13:03:54.268;https://erst.virk.dk/aendringer/X18-AB-05-UR/opsummering/index;;;_action_godkend;focus
+89;5;85;0;1;0;0;2018-01-15T13:03:59.302;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=Jershave+Naturk%C3%B8d+IVS&CVRNummer=36427876&sagsnumre=X18-AB-05-UR&procestype=P003_OPHOER&modtagersEmail=fm%40erc-revision.dk&diaId=30184;;;;
+90;6;0;0;1;0;0;2018-01-15T12:25:05.818;https://erst.virk.dk/aendringer/36950668/overblik/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:26:49.637;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:26:54.311;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];focus
+90;6;0;0;1;0;0;2018-01-15T12:26:54.593;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];blur
+90;6;0;0;1;0;0;2018-01-15T12:27:53.068;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];focus
+90;6;0;0;1;0;0;2018-01-15T12:27:53.077;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];blur
+90;6;0;0;1;0;0;2018-01-15T12:28:02.905;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Referat ekstraordinær generalforsamling;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:04.214;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Referat ekstraordinær generalforsamling;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:04.215;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:09.043;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:09.047;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:09.228;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:09.703;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:28:10.443;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];focus
+90;6;0;0;1;0;0;2018-01-15T12:28:10.601;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];blur
+90;6;0;0;1;0;0;2018-01-15T12:28:12.582;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];focus
+90;6;0;0;1;0;0;2018-01-15T12:28:12.626;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;files[];blur
+90;6;0;0;1;0;0;2018-01-15T12:28:15.380;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Afsluttende likvidationsregnskab;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:16.160;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Afsluttende likvidationsregnskab;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:16.165;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:28.801;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:28.802;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:28.963;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;blur
+90;6;0;0;1;0;0;2018-01-15T12:28:29.345;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:28:29.896;https://erst.virk.dk/aendringer/36950668/dokumenter/index;;;_action_gem;focus
+90;6;0;0;1;0;0;2018-01-15T12:28:37.993;https://erst.virk.dk/aendringer/X18-AB-05-GM/overblik/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:28:49.170;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;;
+90;6;0;0;1;0;0;2018-01-15T12:38:04.460;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;_action_Godkend;focus
+90;6;0;0;1;0;0;2018-01-15T12:38:04.599;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;_action_Godkend;blur
+90;6;0;0;1;0;0;2018-01-15T12:38:06.377;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+90;6;0;0;1;0;0;2018-01-15T12:38:07.646;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+90;6;0;0;1;0;0;2018-01-15T12:38:07.647;https://erst.virk.dk/aendringer/X18-AB-05-GM/opsummering/index;;;_action_godkend;focus
+90;6;0;0;1;0;0;2018-01-15T12:38:10.665;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=BLQ+Group+ApS&CVRNummer=36950668&sagsnumre=X18-AB-05-GM&procestype=P007_STATUSSKIFT&modtagersEmail=kk%40jsrevision.dk&diaId=30184;;;;
+91;0;86;0;0;0;0;2018-01-15T13:26:17.021;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+91;0;86;0;0;0;0;2018-01-15T13:26:21.941;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1e6c30d1-3c2b-4cef-9893-3cbdf803c379;;;;
+91;0;86;0;0;0;0;2018-01-15T13:26:25.091;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1e6c30d1-3c2b-4cef-9893-3cbdf803c379;;;cvrnummer;blur
+91;0;86;0;0;0;0;2018-01-15T13:26:28.901;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1e6c30d1-3c2b-4cef-9893-3cbdf803c379;;;cvrnummer;focus
+91;0;86;0;0;0;0;2018-01-15T13:26:30.330;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1e6c30d1-3c2b-4cef-9893-3cbdf803c379;;;cvrnummer;blur
+91;0;86;0;0;0;0;2018-01-15T13:26:30.331;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1e6c30d1-3c2b-4cef-9893-3cbdf803c379;;;_action_soeg;focus
+92;7;87;0;0;1;0;2018-01-15T07:26:40.164;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+92;7;87;0;0;1;0;2018-01-15T07:27:24.514;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a007638b-77a3-46d7-9189-8102c62ad2a4;;;;
+92;7;87;0;0;1;0;2018-01-15T07:27:29.031;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a007638b-77a3-46d7-9189-8102c62ad2a4;;;cvrnummer;blur
+92;7;87;0;0;1;0;2018-01-15T07:27:29.034;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a007638b-77a3-46d7-9189-8102c62ad2a4;;;_action_soeg;focus
+92;7;87;0;2;1;0;2018-01-15T07:27:43.900;https://erst.virk.dk/aendringer/38638750/overblik/index;;;;
+92;7;87;0;2;1;0;2018-01-15T07:36:22.102;https://erst.virk.dk/aendringer/38638750/overblik/tilOpsummering;;;;
+92;7;87;0;2;1;0;2018-01-15T07:36:30.788;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;;
+92;7;87;0;2;1;0;2018-01-15T07:36:32.740;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T07:36:32.910;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T07:36:35.146;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T07:36:35.804;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T07:37:07.197;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T07:37:09.145;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T07:37:13.570;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T07:37:13.643;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T07:37:20.083;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;Betalingserklæring;focus
+92;7;87;0;2;1;0;2018-01-15T07:37:23.508;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;Betalingserklæring;blur
+92;7;87;0;2;1;0;2018-01-15T07:37:28.905;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+92;7;87;0;2;1;0;2018-01-15T07:37:42.609;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+92;7;87;0;2;1;0;2018-01-15T07:37:42.612;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;;focus
+92;7;87;0;2;1;0;2018-01-15T07:37:42.786;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;;blur
+92;7;87;0;2;1;0;2018-01-15T07:37:43.111;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;;
+92;7;87;0;2;1;0;2018-01-15T07:39:11.313;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;_action_gem;focus
+92;7;87;0;2;1;0;2018-01-15T07:42:49.618;https://erst.virk.dk/aendringer/X18-AB-01-MK/overblik/index;;;;
+92;7;87;0;2;1;0;2018-01-15T08:05:23.904;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;;
+92;7;87;0;2;1;0;2018-01-15T08:05:25.502;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T08:05:25.598;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T08:05:55.460;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];focus
+92;7;87;0;2;1;0;2018-01-15T08:05:55.520;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;files[];blur
+92;7;87;0;2;1;0;2018-01-15T08:05:59.798;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;Erklæring fra SKAT;focus
+92;7;87;0;2;1;0;2018-01-15T08:06:02.225;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;Erklæring fra SKAT;blur
+92;7;87;0;2;1;0;2018-01-15T08:06:06.443;https://erst.virk.dk/aendringer/X18-AB-01-MK/dokumenter/index;;;_action_gem;focus
+92;7;87;0;2;1;0;2018-01-15T08:06:12.068;https://erst.virk.dk/aendringer/X18-AB-01-MK/overblik/index;;;;
+92;7;87;0;2;1;0;2018-01-15T08:06:26.478;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;;
+92;7;87;0;2;1;0;2018-01-15T08:06:35.832;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;_action_Godkend;focus
+92;7;87;0;2;1;0;2018-01-15T08:06:35.994;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;_action_Godkend;blur
+92;7;87;0;2;1;0;2018-01-15T08:06:37.272;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+92;7;87;0;2;1;0;2018-01-15T08:06:37.985;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+92;7;87;0;2;1;0;2018-01-15T08:06:37.986;https://erst.virk.dk/aendringer/X18-AB-01-MK/opsummering/index;;;_action_godkend;focus
+92;7;87;0;2;1;0;2018-01-15T08:06:40.875;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=Teamkonsulenten+IVS&CVRNummer=38638750&sagsnumre=X18-AB-01-MK&procestype=P003_OPHOER&modtagersEmail=teamkonsulenten%40hotmail.com&diaId=30184;;;;
+93;8;0;0;1;0;0;2018-01-15T10:16:19.030;https://erst.virk.dk/aendringer/27267432/overblik/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:16:26.216;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:16:27.749;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:16:27.961;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:16:37.862;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:16:37.926;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:16:45.968;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Referat ekstraordinær generalforsamling;focus
+93;8;0;0;1;0;0;2018-01-15T10:16:47.108;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Referat ekstraordinær generalforsamling;blur
+93;8;0;0;1;0;0;2018-01-15T10:16:47.113;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+93;8;0;0;1;0;0;2018-01-15T10:16:50.226;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+93;8;0;0;1;0;0;2018-01-15T10:16:51.306;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;focus
+93;8;0;0;1;0;0;2018-01-15T10:16:51.483;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;blur
+93;8;0;0;1;0;0;2018-01-15T10:16:51.869;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:16:54.019;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:16:54.102;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:17:02.027;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:17:02.060;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:17:04.151;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Afsluttende likvidationsregnskab;focus
+93;8;0;0;1;0;0;2018-01-15T10:17:05.032;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+93;8;0;0;1;0;0;2018-01-15T10:17:05.033;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Afsluttende likvidationsregnskab;blur
+93;8;0;0;1;0;0;2018-01-15T10:17:16.389;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+93;8;0;0;1;0;0;2018-01-15T10:17:18.020;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;focus
+93;8;0;0;1;0;0;2018-01-15T10:17:18.212;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;blur
+93;8;0;0;1;0;0;2018-01-15T10:17:18.528;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:17:19.771;https://erst.virk.dk/aendringer/27267432/dokumenter/index;;;_action_gem;focus
+93;8;0;0;1;0;0;2018-01-15T10:17:25.916;https://erst.virk.dk/aendringer/X18-AB-03-KM/overblik/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:18:13.277;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:20:27.323;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:20:27.430;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:20:34.291;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;files[];focus
+93;8;0;0;1;0;0;2018-01-15T10:20:34.335;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;files[];blur
+93;8;0;0;1;0;0;2018-01-15T10:20:43.812;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;Referat ekstraordinær generalforsamling;focus
+93;8;0;0;1;0;0;2018-01-15T10:20:44.909;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;Referat ekstraordinær generalforsamling;blur
+93;8;0;0;1;0;0;2018-01-15T10:20:44.911;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+93;8;0;0;1;0;0;2018-01-15T10:20:46.165;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+93;8;0;0;1;0;0;2018-01-15T10:20:47.035;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;;focus
+93;8;0;0;1;0;0;2018-01-15T10:20:47.211;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;;blur
+93;8;0;0;1;0;0;2018-01-15T10:20:47.656;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:20:48.793;https://erst.virk.dk/aendringer/X18-AB-03-KM/dokumenter/index;;;_action_gem;focus
+93;8;0;0;1;0;0;2018-01-15T10:20:54.877;https://erst.virk.dk/aendringer/X18-AB-03-KM/overblik/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:21:50.220;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;;
+93;8;0;0;1;0;0;2018-01-15T10:21:57.802;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;_action_Godkend;focus
+93;8;0;0;1;0;0;2018-01-15T10:21:57.898;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;_action_Godkend;blur
+93;8;0;0;1;0;0;2018-01-15T10:21:59.367;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+93;8;0;0;1;0;0;2018-01-15T10:22:00.443;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;_action_godkend;focus
+93;8;0;0;1;0;0;2018-01-15T10:22:00.444;https://erst.virk.dk/aendringer/X18-AB-03-KM/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+93;8;0;0;1;0;0;2018-01-15T10:22:04.817;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=GMR+HOLDING+A%2FS&CVRNummer=27267432&sagsnumre=X18-AB-03-KM&procestype=P007_STATUSSKIFT&modtagersEmail=mhn%40advokatgruppen.dk&diaId=30184;;;;
+94;9;0;0;2;0;0;2018-01-15T10:17:01.201;https://erst.virk.dk/aendringer/X17-BM-06-FP/overblik/index;;;;
+94;9;0;0;2;0;0;2018-01-15T10:17:18.890;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;;
+94;9;0;0;2;0;0;2018-01-15T10:17:20.341;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;files[];focus
+94;9;0;0;2;0;0;2018-01-15T10:17:35.827;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;Andet;focus
+94;9;0;0;2;0;0;2018-01-15T10:17:36.338;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;Andet;blur
+94;9;0;0;2;0;0;2018-01-15T10:17:36.357;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;;focus
+94;9;0;0;2;0;0;2018-01-15T10:17:52.306;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;;blur
+94;9;0;0;2;0;0;2018-01-15T10:18:07.148;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;;focus
+94;9;0;0;2;0;0;2018-01-15T10:18:07.942;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;;
+94;9;0;0;2;0;0;2018-01-15T10:18:27.910;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;_action_gem;focus
+94;9;0;0;2;0;0;2018-01-15T10:18:34.155;https://erst.virk.dk/aendringer/X17-BM-06-FP/dokumenter/index;;;_action_gem;blur
+94;9;0;0;2;0;0;2018-01-15T10:18:34.371;https://erst.virk.dk/aendringer/X17-BM-06-FP/overblik/index;;;;
+94;9;0;0;2;0;0;2018-01-15T10:18:51.684;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;;
+94;9;0;0;2;0;0;2018-01-15T10:19:08.581;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;_action_Godkend;focus
+94;9;0;0;2;0;0;2018-01-15T10:19:08.640;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;_action_Godkend;blur
+94;9;0;0;2;0;0;2018-01-15T10:19:11.209;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+94;9;0;0;2;0;0;2018-01-15T10:19:12.035;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+94;9;0;0;2;0;0;2018-01-15T10:19:12.059;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;_action_godkend;focus
+94;9;0;0;2;0;0;2018-01-15T10:19:20.223;https://erst.virk.dk/aendringer/X17-BM-06-FP/opsummering/index;;;_action_godkend;blur
+94;9;0;0;2;0;0;2018-01-15T10:19:20.544;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=TRJ+HOLDING+ApS&CVRNummer=35473661&sagsnumre=X17-BM-06-FP&procestype=P003_OPHOER&modtagersEmail=trine%40inbo.as&diaId=30184;;;;
+95;10;0;0;2;0;0;2018-01-15T09:56:37.695;https://erst.virk.dk/aendringer/35533931/overblik/index;;;;
+95;10;0;0;2;0;0;2018-01-15T09:56:46.647;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;;
+95;10;0;0;2;0;0;2018-01-15T09:56:47.945;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];focus
+95;10;0;0;2;0;0;2018-01-15T09:56:48.145;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];blur
+95;10;0;0;2;0;0;2018-01-15T09:56:55.489;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];focus
+95;10;0;0;2;0;0;2018-01-15T09:56:58.579;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Betalingserklæring;focus
+95;10;0;0;2;0;0;2018-01-15T09:56:59.499;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+95;10;0;0;2;0;0;2018-01-15T09:56:59.550;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Betalingserklæring;blur
+95;10;0;0;2;0;0;2018-01-15T09:57:00.593;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+95;10;0;0;2;0;0;2018-01-15T09:57:11.325;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+95;10;0;0;2;0;0;2018-01-15T09:57:12.527;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+95;10;0;0;2;0;0;2018-01-15T09:57:12.595;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;;focus
+95;10;0;0;2;0;0;2018-01-15T09:57:13.239;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;;
+95;10;0;0;2;0;0;2018-01-15T09:57:15.091;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];focus
+95;10;0;0;2;0;0;2018-01-15T09:57:15.212;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];blur
+95;10;0;0;2;0;0;2018-01-15T09:57:17.557;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;files[];focus
+95;10;0;0;2;0;0;2018-01-15T09:57:30.766;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Erklæring fra SKAT;focus
+95;10;0;0;2;0;0;2018-01-15T09:57:31.671;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Erklæring fra SKAT;blur
+95;10;0;0;2;0;0;2018-01-15T09:57:31.726;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+95;10;0;0;2;0;0;2018-01-15T09:57:32.971;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+95;10;0;0;2;0;0;2018-01-15T09:57:47.751;https://erst.virk.dk/aendringer/35533931/dokumenter/index;;;_action_gem;focus
+95;10;0;0;2;0;0;2018-01-15T09:57:54.167;https://erst.virk.dk/aendringer/X18-AB-03-CA/overblik/index;;;;
+95;10;0;0;2;0;0;2018-01-15T09:58:08.372;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;;
+95;10;0;0;2;0;0;2018-01-15T09:58:14.602;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;_action_Godkend;focus
+95;10;0;0;2;0;0;2018-01-15T09:58:14.639;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;_action_Godkend;blur
+95;10;0;0;2;0;0;2018-01-15T09:58:16.351;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;focus
+95;10;0;0;2;0;0;2018-01-15T09:58:17.363;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;Jeg godkender denne indberetning og bekræfter:;blur
+95;10;0;0;2;0;0;2018-01-15T09:58:17.421;https://erst.virk.dk/aendringer/X18-AB-03-CA/opsummering/index;;;_action_godkend;focus
+95;10;0;0;2;0;0;2018-01-15T09:58:21.135;https://erst.virk.dk/virksomhedsregistrering/kvittering/?virksomhedsnavn=C%26A+HOLDING+ApS&CVRNummer=35533931&sagsnumre=X18-AB-03-CA&procestype=P003_OPHOER&modtagersEmail=hhoest%40deloitte.dk&diaId=30184;;;;
+96;0;88;0;0;0;0;2018-01-15T09:23:24.602;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+96;0;88;0;0;0;0;2018-01-15T09:23:24.910;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=97198436-e8e7-4a6e-8caa-740608311206;;;;
+96;0;88;0;0;0;0;2018-01-15T09:23:26.807;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=97198436-e8e7-4a6e-8caa-740608311206;;;cvrnummer;blur
+97;0;89;0;0;0;1;2018-01-15T09:26:24.145;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+97;0;89;0;0;0;1;2018-01-15T09:26:24.902;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=45a21ffa-c1ea-4a6b-95bb-7d77311d150e;;;;
+97;0;89;0;0;0;1;2018-01-15T09:26:35.368;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=45a21ffa-c1ea-4a6b-95bb-7d77311d150e;;;cvrnummer;blur
+97;0;89;0;0;0;1;2018-01-15T09:26:35.431;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=45a21ffa-c1ea-4a6b-95bb-7d77311d150e;;;_action_soeg;focus
+97;0;89;0;1;0;1;2018-01-15T09:27:18.752;https://erst.virk.dk/aendringer/33884281/overblik/index;;;;
+98;0;90;0;0;0;0;2018-01-15T10:23:38.595;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+98;0;90;0;0;0;0;2018-01-15T10:24:15.506;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a61d7d50-c8f0-4581-a02d-b8dd7c412ba4;;;;
+98;0;90;0;0;0;0;2018-01-15T10:24:44.245;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a61d7d50-c8f0-4581-a02d-b8dd7c412ba4;;;cvrnummer;blur
+98;0;90;0;0;0;0;2018-01-15T10:24:44.274;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a61d7d50-c8f0-4581-a02d-b8dd7c412ba4;;;_action_soeg;focus
+99;0;91;0;0;0;1;2018-01-15T09:38:53.280;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+99;0;91;0;0;0;1;2018-01-15T09:39:13.216;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4cbe2e02-a5b1-41e8-9c3c-154b1ec16b01;;;;
+100;0;92;0;0;0;0;2018-01-15T14:53:09.371;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+100;0;92;0;0;0;0;2018-01-15T14:53:19.828;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e448fa4-08cb-4a32-9a53-909608f885ac;;;;
+100;0;92;0;0;0;0;2018-01-15T14:53:38.740;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e448fa4-08cb-4a32-9a53-909608f885ac;;;_action_soeg;focus
+100;0;92;0;0;0;0;2018-01-15T14:53:38.742;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e448fa4-08cb-4a32-9a53-909608f885ac;;;cvrnummer;blur
+100;0;92;0;2;0;0;2018-01-15T14:54:27.516;https://erst.virk.dk/aendringer/38168142/overblik/index;;;;
+100;0;92;0;2;0;0;2018-01-15T14:55:59.144;https://erst.virk.dk/aendringer/38168142/dokumenter/index;;;;
+100;0;92;0;2;0;0;2018-01-15T14:56:08.971;https://erst.virk.dk/aendringer/38168142/dokumenter/index;;;_action_annuller;focus
+100;0;92;0;2;0;0;2018-01-15T14:56:14.336;https://erst.virk.dk/aendringer/38168142/overblik/index;;;;
+101;0;93;0;0;0;0;2018-01-14T12:55:53.405;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+101;0;93;0;0;0;0;2018-01-14T12:56:40.626;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4d321606-7e6d-40af-8563-b4aa9dcb3694;;;;
+102;0;94;0;0;1;0;2018-01-14T13:16:07.220;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+102;0;94;0;0;1;0;2018-01-14T13:16:15.651;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7d07ba10-2c9a-47a5-86b0-130037a12ba4;;;;
+102;0;94;0;0;1;0;2018-01-14T13:16:18.952;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7d07ba10-2c9a-47a5-86b0-130037a12ba4;;;cvrnummer;blur
+102;0;94;0;0;1;0;2018-01-14T13:16:21.128;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7d07ba10-2c9a-47a5-86b0-130037a12ba4;;;cvrnummer;focus
+102;0;94;0;0;1;0;2018-01-14T13:16:22.852;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7d07ba10-2c9a-47a5-86b0-130037a12ba4;;;cvrnummer;blur
+102;0;94;0;0;1;0;2018-01-14T13:16:23.886;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7d07ba10-2c9a-47a5-86b0-130037a12ba4;;;_action_soeg;focus
+102;0;94;0;2;1;0;2018-01-14T13:16:38.383;https://erst.virk.dk/aendringer/38004972/overblik/index;;;;
+102;0;94;0;2;1;0;2018-01-14T13:18:02.846;https://erst.virk.dk/aendringer/38004972/overblik/index;;;;
+102;0;94;0;0;1;0;2018-01-14T13:54:38.426;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=4dcb8aca-d6ae-4e0f-b419-d862cc469d4b;;;cvrnummer;blur
+102;0;94;0;0;1;0;2018-01-14T13:54:42.822;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=4dcb8aca-d6ae-4e0f-b419-d862cc469d4b;;;cvrnummer;focus
+102;0;94;0;0;1;0;2018-01-14T13:54:44.340;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=4dcb8aca-d6ae-4e0f-b419-d862cc469d4b;;;cvrnummer;blur
+102;0;94;0;0;1;0;2018-01-14T13:54:44.345;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=4dcb8aca-d6ae-4e0f-b419-d862cc469d4b;;;_action_soeg;focus
+102;0;94;0;2;1;0;2018-01-14T13:54:57.064;https://erst.virk.dk/aendringer/38004972/overblik/index;;;;
+102;0;94;0;2;1;0;2018-01-14T13:55:25.843;https://erst.virk.dk/aendringer/38004972/overblik/tilOpsummering;;;;
+102;0;94;0;2;1;0;2018-01-14T13:55:38.886;https://erst.virk.dk/aendringer/X18-AA-98-ZT/overblik/tilOpsummering;;;;
+102;0;94;0;2;1;0;2018-01-14T13:55:51.748;https://erst.virk.dk/aendringer/X18-AA-98-ZT/overblik/tilOpsummering;;;;
+102;0;94;0;2;1;0;2018-01-14T13:56:48.343;https://erst.virk.dk/aendringer/X18-AA-98-ZT/overblik/tilOpsummering;;;;
+102;0;94;0;2;1;0;2018-01-14T14:03:51.483;https://erst.virk.dk/aendringer/X18-AA-98-ZT/dokumenter/index;;;;
+102;0;94;0;2;1;0;2018-01-14T14:03:53.347;https://erst.virk.dk/aendringer/X18-AA-98-ZT/dokumenter/index;;;files[];focus
+102;0;94;0;2;1;0;2018-01-14T14:03:53.431;https://erst.virk.dk/aendringer/X18-AA-98-ZT/dokumenter/index;;;files[];blur
+102;0;94;0;2;1;0;2018-01-14T14:03:54.721;https://erst.virk.dk/aendringer/X18-AA-98-ZT/dokumenter/index;;;files[];focus
+102;0;94;0;2;1;0;2018-01-14T14:03:55.275;https://erst.virk.dk/aendringer/X18-AA-98-ZT/dokumenter/index;;;files[];blur
+103;0;95;0;0;0;0;2018-01-15T06:43:23.622;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+103;0;95;0;0;0;0;2018-01-15T06:43:45.288;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;;
+103;0;95;0;0;0;0;2018-01-15T06:43:48.956;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;cvrnummer;blur
+103;0;95;0;0;0;0;2018-01-15T06:43:53.518;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;cvrnummer;focus
+103;0;95;0;0;0;0;2018-01-15T06:43:54.587;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;cvrnummer;blur
+103;0;95;0;0;0;0;2018-01-15T06:44:07.116;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;cvrnummer;focus
+103;0;95;0;0;0;0;2018-01-15T06:44:10.398;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;_action_soeg;focus
+103;0;95;0;0;0;0;2018-01-15T06:44:10.398;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=90512058-6534-4d41-9315-fe9ec6d1f839;;;cvrnummer;blur
+104;0;96;0;0;0;0;2018-01-15T07:54:18.789;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+104;0;96;0;0;0;0;2018-01-15T07:54:22.962;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b44a79d0-0913-475a-9630-8083c0bda19c;;;;
+104;0;96;0;0;0;0;2018-01-15T07:54:32.235;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b44a79d0-0913-475a-9630-8083c0bda19c;;;cvrnummer;blur
+104;0;96;0;0;0;0;2018-01-15T07:54:50.030;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b44a79d0-0913-475a-9630-8083c0bda19c;;;cvrnummer;focus
+104;0;96;0;0;0;0;2018-01-15T07:54:55.706;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b44a79d0-0913-475a-9630-8083c0bda19c;;;cvrnummer;blur
+104;0;96;0;1;0;0;2018-01-15T07:55:44.161;https://erst.virk.dk/aendringer/28104626/overblik/index;;;;
+105;0;97;0;0;1;0;2018-01-14T09:34:42.808;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+105;0;97;0;0;1;0;2018-01-14T09:36:22.386;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;;
+105;0;97;0;0;1;0;2018-01-14T09:36:22.848;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;cvrnummer;focus
+105;0;97;0;0;1;0;2018-01-14T09:36:25.201;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;cvrnummer;blur
+105;0;97;0;0;1;0;2018-01-14T09:36:43.751;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;cvrnummer;focus
+105;0;97;0;0;1;0;2018-01-14T09:36:46.891;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;cvrnummer;blur
+105;0;97;0;0;1;0;2018-01-14T09:36:47.069;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a4af8225-3d94-4334-adf5-0eaa64adcc44;;;_action_soeg;focus
+106;0;98;0;0;1;0;2018-01-14T09:11:34.382;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+106;0;98;0;0;1;0;2018-01-14T09:11:42.689;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=537f59dc-1bc2-4e5d-b905-c9f1fcd6ecf6;;;;
+107;0;99;0;0;1;0;2018-01-14T12:15:25.465;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+107;0;99;0;0;1;0;2018-01-14T12:16:03.187;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;;
+107;0;99;0;0;1;0;2018-01-14T12:16:14.754;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;blur
+107;0;99;0;0;1;0;2018-01-14T12:16:27.879;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;focus
+107;0;99;0;0;1;0;2018-01-14T12:16:27.879;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;focus
+107;0;99;0;0;1;0;2018-01-14T12:16:31.893;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;blur
+107;0;99;0;0;1;0;2018-01-14T12:16:35.080;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;focus
+107;0;99;0;0;1;0;2018-01-14T12:16:35.113;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;focus
+107;0;99;0;0;1;0;2018-01-14T12:16:39.281;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=a954715e-38ac-41ab-933c-3f2d903d520f;;;cvrnummer;blur
+108;0;100;0;0;0;1;2018-01-15T14:47:02.247;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+108;0;100;0;0;0;1;2018-01-15T14:47:16.803;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71e7b73c-1906-4481-8af4-9bced1f87c05;;;;
+108;0;100;0;0;0;1;2018-01-15T14:47:54.782;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71e7b73c-1906-4481-8af4-9bced1f87c05;;;cvrnummer;blur
+108;0;100;0;1;0;1;2018-01-15T14:48:19.473;https://erst.virk.dk/aendringer/38906607/overblik/index;;;;
+109;0;101;0;0;0;0;2018-01-15T15:29:27.108;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+109;0;101;0;0;0;0;2018-01-15T15:29:28.146;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=558b6da7-25e8-4a5f-bb04-828a509a5b98;;;;
+109;0;101;0;0;0;0;2018-01-15T15:29:47.548;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=558b6da7-25e8-4a5f-bb04-828a509a5b98;;;cvrnummer;blur
+109;0;101;0;0;0;0;2018-01-15T15:29:47.577;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=558b6da7-25e8-4a5f-bb04-828a509a5b98;;;_action_soeg;focus
+109;0;101;0;2;0;0;2018-01-15T15:30:32.280;https://erst.virk.dk/aendringer/38168142/overblik/index;;;;
+110;0;102;0;0;0;0;2018-01-15T15:34:43.081;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+110;0;102;0;0;0;0;2018-01-15T15:34:55.166;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71f782a3-9e67-44be-9465-549898ea32dd;;;;
+110;0;102;0;0;0;0;2018-01-15T15:34:59.320;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71f782a3-9e67-44be-9465-549898ea32dd;;;cvrnummer;blur
+110;0;102;0;0;0;0;2018-01-15T15:34:59.328;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71f782a3-9e67-44be-9465-549898ea32dd;;;_action_soeg;focus
+110;0;102;0;0;0;0;2018-01-15T15:34:59.974;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=71f782a3-9e67-44be-9465-549898ea32dd;;;_action_soeg;blur
+111;0;103;0;0;1;0;2018-01-14T14:20:58.631;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+111;0;103;0;0;1;0;2018-01-14T14:21:22.566;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=39925d12-6091-4628-b935-1cd7b5735b74;;;;
+111;0;103;0;0;1;0;2018-01-14T14:21:24.612;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=39925d12-6091-4628-b935-1cd7b5735b74;;;cvrnummer;blur
+112;0;104;0;0;0;0;2018-01-15T10:21:30.020;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+112;0;104;0;0;0;0;2018-01-15T10:21:45.322;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c94b060c-55ee-4f4c-88a1-95ac9eddf645;;;;
+112;0;104;0;0;0;0;2018-01-15T10:22:07.481;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c94b060c-55ee-4f4c-88a1-95ac9eddf645;;;cvrnummer;blur
+112;0;104;0;0;0;0;2018-01-15T10:23:57.634;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c94b060c-55ee-4f4c-88a1-95ac9eddf645;;;cvrnummer;focus
+112;0;104;0;0;0;0;2018-01-15T10:24:00.326;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c94b060c-55ee-4f4c-88a1-95ac9eddf645;;;cvrnummer;blur
+112;0;104;0;0;0;0;2018-01-15T10:24:00.327;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=c94b060c-55ee-4f4c-88a1-95ac9eddf645;;;_action_soeg;focus
+113;0;105;0;0;0;0;2018-01-14T13:13:57.949;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+113;0;105;0;0;0;0;2018-01-14T13:14:15.348;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=bf804fdb-6d0c-4f32-9bed-d228ce8c010a;;;;
+113;0;105;0;2;0;0;2018-01-14T13:17:08.773;https://erst.virk.dk/aendringer/33371918/overblik/index;;;;
+113;0;105;0;2;0;0;2018-01-14T13:39:44.381;https://erst.virk.dk/aendringer/33371918/overblik/tilOpsummering;;;;
+114;0;106;0;0;0;0;2018-01-13T14:22:43.304;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+114;0;106;0;0;0;0;2018-01-13T14:22:43.803;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=ba1f679e-88b2-47b6-807e-74acb0ac6c47;;;;
+115;0;107;0;0;1;0;2018-01-14T11:08:54.319;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+115;0;107;0;0;1;0;2018-01-14T11:09:36.450;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=096c0b37-b42a-4b3e-893e-435dad87af12;;;;
+116;0;108;0;0;0;0;2018-01-14T10:06:28.080;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+116;0;108;0;0;0;0;2018-01-14T10:06:36.055;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=026f6277-cee4-4118-b4bc-dd294f55514b;;;;
+116;0;108;0;0;0;0;2018-01-14T10:06:54.675;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=026f6277-cee4-4118-b4bc-dd294f55514b;;;_action_soeg;focus
+116;0;108;0;0;0;0;2018-01-14T10:06:54.676;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=026f6277-cee4-4118-b4bc-dd294f55514b;;;cvrnummer;blur
+117;0;109;0;0;1;0;2018-01-14T13:56:51.822;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+117;0;109;0;0;1;0;2018-01-14T13:58:24.426;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a87d783-420b-4b6e-a068-876f0f981085;;;;
+117;0;109;0;0;1;0;2018-01-14T13:58:48.661;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a87d783-420b-4b6e-a068-876f0f981085;;;cvrnummer;blur
+117;0;109;0;0;1;0;2018-01-14T13:58:57.738;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1a87d783-420b-4b6e-a068-876f0f981085;;;cvrnummer;focus
+118;0;110;0;0;0;0;2018-01-14T10:32:41.501;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+118;0;110;0;0;0;0;2018-01-14T10:32:56.906;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=22bae981-2d32-4412-9be2-38fc0d5e0a8b;;;;
+119;0;111;0;0;0;0;2018-01-14T17:02:27.221;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+119;0;111;0;0;0;0;2018-01-14T17:02:31.260;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e8ca4878-61de-4e1c-849f-acafa25f5163;;;;
+120;0;112;0;0;0;0;2018-01-14T12:19:19.347;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+120;0;112;0;0;0;0;2018-01-14T12:20:04.236;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=3f0ed769-3073-4477-8471-b3744de66e8b;;;;
+120;0;112;0;0;0;0;2018-01-14T12:20:37.497;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=3f0ed769-3073-4477-8471-b3744de66e8b;;;cvrnummer;blur
+120;0;112;0;0;0;0;2018-01-14T12:20:37.731;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=3f0ed769-3073-4477-8471-b3744de66e8b;;;_action_soeg;focus
+121;0;113;0;0;0;0;2018-01-14T17:08:55.208;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+121;0;113;0;0;0;0;2018-01-14T17:09:00.931;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=29497e97-682c-4b2f-aa20-62345c6fadaa;;;;
+121;0;113;0;0;0;0;2018-01-14T17:09:07.015;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=29497e97-682c-4b2f-aa20-62345c6fadaa;;;_action_soeg;focus
+121;0;113;0;0;0;0;2018-01-14T17:09:07.016;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=29497e97-682c-4b2f-aa20-62345c6fadaa;;;cvrnummer;blur
+121;0;113;0;0;0;0;2018-01-14T17:09:07.813;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=29497e97-682c-4b2f-aa20-62345c6fadaa;;;_action_soeg;blur
+122;0;114;0;0;1;0;2018-01-14T16:14:44.822;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+122;0;114;0;0;1;0;2018-01-14T16:14:55.992;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2661dfb0-fce4-4414-909f-c8840b07edeb;;;;
+122;0;114;0;0;1;0;2018-01-14T16:14:59.282;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2661dfb0-fce4-4414-909f-c8840b07edeb;;;cvrnummer;blur
+122;0;114;0;0;1;0;2018-01-14T16:15:30.253;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=2661dfb0-fce4-4414-909f-c8840b07edeb;;;;
+123;0;115;0;0;0;0;2018-01-13T13:31:54.707;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+123;0;115;0;0;0;0;2018-01-13T13:32:02.149;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;;
+123;0;115;0;0;0;0;2018-01-13T13:32:20.901;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;cvrnummer;blur
+123;0;115;0;0;0;0;2018-01-13T13:32:21.551;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;cvrnummer;focus
+123;0;115;0;0;0;0;2018-01-13T13:32:22.614;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;cvrnummer;blur
+123;0;115;0;0;0;0;2018-01-13T13:33:05.157;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;cvrnummer;focus
+123;0;115;0;0;0;0;2018-01-13T13:33:09.273;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;cvrnummer;blur
+123;0;115;0;0;0;0;2018-01-13T13:33:09.278;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=b4188954-0b7e-408b-b977-e67282f9fe78;;;_action_soeg;focus
+123;0;115;0;2;0;0;2018-01-13T13:33:51.741;https://erst.virk.dk/aendringer/30174097/overblik/index;;;;
+123;0;115;0;2;0;0;2018-01-13T13:34:40.683;https://erst.virk.dk/aendringer/30174097/dokumenter/index;;;;
+123;0;115;0;2;0;0;2018-01-13T13:35:04.005;https://erst.virk.dk/aendringer/30174097/overblik/index;;;;
+123;0;115;0;2;0;0;2018-01-13T13:37:52.318;https://erst.virk.dk/aendringer/30174097/overblik/tilOpsummering;;;;
+123;0;115;0;2;0;0;2018-01-13T14:04:57.312;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;;
+123;0;115;0;2;0;0;2018-01-13T14:04:58.984;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;files[];focus
+123;0;115;0;2;0;0;2018-01-13T14:04:59.159;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;files[];blur
+123;0;115;0;2;0;0;2018-01-13T14:05:12.799;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;files[];focus
+123;0;115;0;2;0;0;2018-01-13T14:05:12.957;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;files[];blur
+123;0;115;0;2;0;0;2018-01-13T14:05:17.769;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;Betalingserklæring;focus
+123;0;115;0;2;0;0;2018-01-13T14:05:20.867;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;Betalingserklæring;blur
+123;0;115;0;2;0;0;2018-01-13T14:05:20.870;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+123;0;115;0;2;0;0;2018-01-13T14:05:28.050;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+123;0;115;0;2;0;0;2018-01-13T14:05:37.418;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dfocus;focus
+123;0;115;0;2;0;0;2018-01-13T14:05:40.757;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;\n \n Jeg erklærer at betalingserklæringen:\n\n\tIndeholder virksomhedens CVR-nummer, navn og adresse\n\tAt kapitalejer/kapitalejere har erklæret, at al gæld, forfalden som uforfalden, er betalt, og at virksomheden er besluttet opløst\n\tAt erklæringen er underskrevet af samtlige kapitalejere.\n\tAt erklæringen er dateret\n\tAt samtlige kapitalejere er angivet med navne, adresse og underskrift\n\tAt samtlige kapitalejere er gjort bekendt med, at hvis de afgiver urigtige oplysninger, kan dblur;blur
+123;0;115;0;2;0;0;2018-01-13T14:05:40.759;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;;focus
+123;0;115;0;2;0;0;2018-01-13T14:05:40.973;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;;blur
+123;0;115;0;2;0;0;2018-01-13T14:05:41.546;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;;
+123;0;115;0;2;0;0;2018-01-13T14:05:59.737;https://erst.virk.dk/aendringer/X18-AA-96-KA/dokumenter/index;;;_action_gem;focus
+123;0;115;0;2;0;0;2018-01-13T14:06:03.954;https://erst.virk.dk/aendringer/X18-AA-96-KA/overblik/index;;;;
+123;0;115;0;2;0;0;2018-01-13T14:08:22.003;https://erst.virk.dk/aendringer/X18-AA-96-KA/overblik/tilOpsummering;;;;
+124;0;116;0;0;0;0;2018-01-02T17:14:20.451;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+124;0;116;0;0;0;0;2018-01-02T17:14:46.374;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6edf7488-8189-4998-9526-608fa7197117;;;;
+124;0;116;0;0;0;0;2018-01-02T17:15:30.817;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6edf7488-8189-4998-9526-608fa7197117;;;cvrnummer;blur
+124;0;116;0;0;0;0;2018-01-02T17:15:30.825;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=6edf7488-8189-4998-9526-608fa7197117;;;_action_soeg;focus
+125;0;117;0;0;0;1;2018-01-03T14:12:11.191;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+125;0;117;0;0;0;1;2018-01-03T14:13:01.157;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7178f52b-f06f-401c-9a6c-e83f2e2af7ce;;;;
+125;0;117;0;0;0;1;2018-01-03T14:13:20.762;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7178f52b-f06f-401c-9a6c-e83f2e2af7ce;;;cvrnummer;blur
+125;0;117;0;0;0;1;2018-01-03T14:13:20.816;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7178f52b-f06f-401c-9a6c-e83f2e2af7ce;;;_action_soeg;focus
+125;0;117;0;0;0;1;2018-01-03T14:16:58.405;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=7178f52b-f06f-401c-9a6c-e83f2e2af7ce;;;;
+126;0;118;0;0;0;1;2018-01-03T14:16:25.270;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+126;0;118;0;0;0;1;2018-01-03T14:16:59.932;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e10aa4be-11b5-430e-873b-d31964748504;;;;
+126;0;118;0;0;0;1;2018-01-03T14:17:19.974;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e10aa4be-11b5-430e-873b-d31964748504;;;cvrnummer;blur
+126;0;118;0;0;0;1;2018-01-03T14:17:19.977;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=e10aa4be-11b5-430e-873b-d31964748504;;;_action_soeg;focus
+127;0;119;0;0;1;0;2018-01-19T05:41:37.352;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+127;0;119;0;0;1;0;2018-01-19T05:41:39.272;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=8b8687a0-12a5-462c-b924-c9c1e65ea0ba;;;;
+127;0;119;0;0;1;0;2018-01-19T05:41:45.307;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=8b8687a0-12a5-462c-b924-c9c1e65ea0ba;;;cvrnummer;blur
+127;0;119;0;2;1;0;2018-01-19T05:42:37.157;https://erst.virk.dk/aendringer/38688529/overblik/index;;;;
+127;0;119;0;2;1;0;2018-01-19T05:43:12.287;https://erst.virk.dk/aendringer/38688529/overblik/tilOpsummering;;;;
+127;0;119;0;2;1;0;2018-01-19T05:43:39.986;https://erst.virk.dk/aendringer/X18-AB-36-SG/overblik/tilOpsummering;;;;
+127;0;119;0;2;1;0;2018-01-19T05:44:55.531;https://erst.virk.dk/aendringer/X18-AB-36-SG/overblik/tilOpsummering;;;;
+128;0;120;0;0;1;0;2018-01-19T05:42:00.055;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+128;0;120;0;0;1;0;2018-01-19T05:42:21.057;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5dceb199-30f8-4e5d-a0af-10fb4b492119;;;;
+128;0;120;0;0;1;0;2018-01-19T05:42:23.927;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=5dceb199-30f8-4e5d-a0af-10fb4b492119;;;cvrnummer;blur
+129;0;121;0;0;1;0;2018-01-19T06:51:06.788;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+129;0;121;0;0;1;0;2018-01-19T06:51:43.298;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ca132390-e976-43b3-88ed-43d016ea2890;;;;
+129;0;121;0;0;1;0;2018-01-19T06:52:08.753;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ca132390-e976-43b3-88ed-43d016ea2890;;;cvrnummer;blur
+129;0;121;0;0;1;0;2018-01-19T06:52:09.204;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ca132390-e976-43b3-88ed-43d016ea2890;;;cvrnummer;focus
+129;0;121;0;0;1;0;2018-01-19T06:52:13.932;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ca132390-e976-43b3-88ed-43d016ea2890;;;cvrnummer;blur
+129;0;121;0;0;1;0;2018-01-19T06:52:14.138;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=ca132390-e976-43b3-88ed-43d016ea2890;;;_action_soeg;focus
+129;0;121;0;2;1;0;2018-01-19T06:52:41.912;https://erst.virk.dk/aendringer/37602639/overblik/index;;;;
+129;0;121;0;2;1;0;2018-01-19T06:54:05.430;https://erst.virk.dk/aendringer/37602639/overblik/tilOpsummering;;;;
+129;0;121;0;2;1;0;2018-01-19T06:57:16.867;https://erst.virk.dk/aendringer/X18-AB-36-XC/overblik/tilOpsummering;;;;
+130;0;122;0;0;0;0;2018-01-19T06:41:39.638;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+130;0;122;0;0;0;0;2018-01-19T06:41:47.347;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e66e977-5a79-4682-bdb4-ffaaf1c0ddc8;;;;
+130;0;122;0;0;0;0;2018-01-19T06:42:09.305;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e66e977-5a79-4682-bdb4-ffaaf1c0ddc8;;;cvrnummer;blur
+130;0;122;0;0;0;0;2018-01-19T06:42:09.307;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e66e977-5a79-4682-bdb4-ffaaf1c0ddc8;;;_action_soeg;focus
+131;0;123;0;0;1;0;2018-01-02T13:58:43.145;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+131;0;123;0;0;1;0;2018-01-02T13:59:21.587;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=9423ab11-ffcc-4675-a26a-ae8ef4533de9;;;;
+131;0;123;0;0;1;0;2018-01-02T13:59:32.891;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=9423ab11-ffcc-4675-a26a-ae8ef4533de9;;;;
+132;0;124;0;0;0;1;2018-01-03T13:33:10.264;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+132;0;124;0;0;0;1;2018-01-03T13:33:10.756;https://erst.virk.dk/virksomhedsregistrering/aendring/?formularId=30184&forloebId=dc53aa73-316a-4c62-9349-2a1c9b86c0a0;;;;
+133;0;125;0;0;0;0;2018-01-03T13:40:59.408;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+133;0;125;0;0;0;0;2018-01-03T13:41:08.304;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1f98ce07-5b94-40c7-a848-210120b3b970;;;;
+133;0;125;0;0;0;0;2018-01-03T13:41:23.727;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1f98ce07-5b94-40c7-a848-210120b3b970;;;_action_soeg;focus
+133;0;125;0;0;0;0;2018-01-03T13:41:23.735;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=1f98ce07-5b94-40c7-a848-210120b3b970;;;cvrnummer;blur
+134;11;126;0;0;0;0;2018-01-03T13:39:13.761;https://erst.virk.dk/virksomhedsregistrering/aendring/;;;;
+134;11;126;0;0;0;0;2018-01-03T13:39:20.800;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e218f5a-62d3-49ce-b05e-b73d272a8e27;;;;
+134;11;126;0;0;0;0;2018-01-03T13:39:22.917;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e218f5a-62d3-49ce-b05e-b73d272a8e27;;;cvrnummer;blur
+134;11;126;0;0;0;0;2018-01-03T13:39:34.832;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e218f5a-62d3-49ce-b05e-b73d272a8e27;;;cvrnummer;focus
+134;11;126;0;0;0;0;2018-01-03T13:39:39.821;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e218f5a-62d3-49ce-b05e-b73d272a8e27;;;_action_soeg;focus
+134;11;126;0;0;0;0;2018-01-03T13:39:39.859;https://erst.virk.dk/virksomhedsregistrering/aendring/index?formularId=30184&forloebId=4e218f5a-62d3-49ce-b05e-b73d272a8e27;;;cvrnummer;blur
+134;11;126;0;1;0;0;2018-01-03T13:40:48.863;https://erst.virk.dk/aendringer/34720673/overblik/index;;;;
+134;11;126;0;1;0;0;2018-01-03T13:41:25.626;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;;
+134;11;126;0;1;0;0;2018-01-03T13:41:26.883;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;files[];focus
+134;11;126;0;1;0;0;2018-01-03T13:41:27.032;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;files[];blur
+134;11;126;0;1;0;0;2018-01-03T13:41:31.269;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;files[];focus
+134;11;126;0;1;0;0;2018-01-03T13:41:35.885;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;Erklæring fra SKAT;focus
+134;11;126;0;1;0;0;2018-01-03T13:41:39.238;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;Erklæring fra SKAT;blur
+134;11;126;0;1;0;0;2018-01-03T13:41:39.239;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;Dato for godkendelse af dokument *;focus
+134;11;126;0;1;0;0;2018-01-03T13:41:42.719;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;Dato for godkendelse af dokument *;blur
+134;11;126;0;1;0;0;2018-01-03T13:42:21.377;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;;focus
+134;11;126;0;1;0;0;2018-01-03T13:42:22.095;https://erst.virk.dk/aendringer/34720673/dokumenter/index;;;;
